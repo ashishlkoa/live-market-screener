@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pro Market Screener</title>
+    <!-- Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <!-- GSAP for Animations -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js"></script>
+    <!-- Three.js & Vanta.js for 3D Background -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r134/three.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vanta@latest/dist/vanta.net.min.js"></script>
+    
+    <style>
+        body { margin: 0; overflow-x: hidden; color: white; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; }
+        #vanta-bg { position: fixed; top: 0; left: 0; width: 100vw; height: 100vh; z-index: -1; }
+        .glass-panel {
+            background: rgba(17, 24, 39, 0.65);
+            backdrop-filter: blur(16px);
+            -webkit-backdrop-filter: blur(16px);
+            border: 1px solid rgba(255, 255, 255, 0.08);
+            box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.3);
+        }
+    </style>
+</head>
+<body class="bg-gray-900">
+
+    <div id="vanta-bg"></div>
+
+    <div class="container mx-auto px-4 py-10 relative z-10">
+        <!-- Header -->
+        <header class="text-center mb-12 gs-reveal">
+            <h1 class="text-5xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-blue-400 to-emerald-400 drop-shadow-lg">
+                Pro Market Screener
+            </h1>
+            <p class="mt-3 text-gray-300 text-lg">Automated Daily Breakout & Sector Rotation</p>
+            <div class="mt-4 inline-block px-4 py-1 rounded-full bg-emerald-500/20 text-emerald-400 border border-emerald-500/30 text-sm">
+                ● Last Updated: <span id="time-display">Fetching data...</span>
+            </div>
+        </header>
+
+        <!-- Dashboard Cards -->
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-6 mb-10">
+            <!-- Card 1 -->
+            <div class="glass-panel p-6 rounded-2xl gs-card border-t-4 border-t-blue-500 transform transition hover:scale-105">
+                <h3 class="text-gray-400 text-sm uppercase tracking-wider">Top Sector Today</h3>
+                <h2 id="top-sector-name" class="text-3xl font-bold mt-2 text-white">Loading...</h2>
+                <p id="top-sector-ratio" class="text-blue-400 mt-2 flex items-center font-medium">--</p>
+            </div>
+            <!-- Card 2 -->
+            <div class="glass-panel p-6 rounded-2xl gs-card border-t-4 border-t-emerald-500 transform transition hover:scale-105">
+                <h3 class="text-gray-400 text-sm uppercase tracking-wider">Total Breakouts</h3>
+                <h2 id="total-breakouts" class="text-3xl font-bold mt-2 text-white">--</h2>
+                <p class="text-emerald-400 mt-2 flex items-center font-medium">Vol & Del > 1.5x</p>
+            </div>
+            <!-- Card 3 -->
+            <div class="glass-panel p-6 rounded-2xl gs-card border-t-4 border-t-purple-500 transform transition hover:scale-105">
+                <h3 class="text-gray-400 text-sm uppercase tracking-wider">Stock Of The Day</h3>
+                <h2 id="top-stock-name" class="text-3xl font-bold mt-2 text-white">--</h2>
+                <p id="top-stock-ratio" class="text-purple-400 mt-2 flex items-center font-medium">--</p>
+            </div>
+        </div>
+
+        <!-- Data Table Section -->
+        <div class="glass-panel rounded-2xl overflow-hidden gs-table">
+            <div class="px-6 py-4 border-b border-gray-700 bg-gray-800/40 flex justify-between items-center">
+                <h2 class="text-xl font-semibold text-white">Live Watchlist</h2>
+            </div>
+            <div class="overflow-x-auto">
+                <table class="w-full text-left border-collapse">
+                    <thead>
+                        <tr class="bg-gray-800/50 text-gray-400 text-sm">
+                            <th class="p-4 border-b border-gray-700">SYMBOL</th>
+                            <th class="p-4 border-b border-gray-700">SECTOR</th>
+                            <th class="p-4 border-b border-gray-700">VOL RATIO</th>
+                            <th class="p-4 border-b border-gray-700">DEL RATIO</th>
+                            <th class="p-4 border-b border-gray-700">ACTION</th>
+                        </tr>
+                    </thead>
+                    <tbody id="table-body">
+                        <!-- Javascript will inject table rows here dynamically -->
+                        <tr><td colspan="5" class="p-4 text-center text-gray-400">Loading live data...</td></tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // Initialize 3D Vanta Network Background
+        VANTA.NET({
+            el: "#vanta-bg",
+            mouseControls: true, touchControls: true, gyroControls: false,
+            minHeight: 200.00, minWidth: 200.00, scale: 1.00, scaleMobile: 1.00,
+            color: 0x3b82f6, backgroundColor: 0x0f172a, points: 12.00, maxDistance: 22.00, spacing: 18.00
+        });
+
+        // GSAP Initial Animations
+        gsap.from(".gs-reveal", { y: -30, opacity: 0, duration: 1, ease: "power3.out" });
+        gsap.from(".gs-card", { y: 40, opacity: 0, duration: 0.8, stagger: 0.15, ease: "back.out(1.7)", delay: 0.2 });
+        gsap.from(".gs-table", { y: 30, opacity: 0, duration: 1, ease: "power2.out", delay: 0.6 });
+
+        // FETCH DATA FROM JSON FILE
+        fetch('data.json')
+            .then(response => response.json())
+            .then(data => {
+                // Update Header Time
+                document.getElementById('time-display').innerText = data.last_updated;
+
+                // Update Cards
+                if(data.top_sectors.length > 0) {
+                    document.getElementById('top-sector-name').innerText = data.top_sectors[0].Sector;
+                    document.getElementById('top-sector-ratio').innerText = "Delivery " + data.top_sectors[0].Sector_Del_Ratio.toFixed(2) + "x Spike";
+                }
+                
+                document.getElementById('total-breakouts').innerText = data.total_breakouts + " Stocks";
+                
+                if(data.stocks.length > 0) {
+                    document.getElementById('top-stock-name').innerText = data.stocks[0].SYMBOL;
+                    document.getElementById('top-stock-ratio').innerText = "Del: " + data.stocks[0].Del_Ratio.toFixed(2) + "x | Vol: " + data.stocks[0].Vol_Ratio.toFixed(2) + "x";
+                }
+
+                // Update Table
+                const tbody = document.getElementById('table-body');
+                tbody.innerHTML = ""; // Clear loading text
+                
+                data.stocks.forEach((stock, index) => {
+                    // Highlight the first 3 rows as "Strong Buy"
+                    let badgeClass = index < 3 ? "bg-emerald-500/20 text-emerald-400" : "bg-blue-500/20 text-blue-400";
+                    let badgeText = index < 3 ? "Strong Buy" : "Breakout";
+
+                    const tr = document.createElement('tr');
+                    tr.className = "hover:bg-gray-700/40 transition border-b border-gray-700/50";
+                    tr.innerHTML = `
+                        <td class="p-4 font-bold text-white tracking-wider">${stock.SYMBOL}</td>
+                        <td class="p-4 text-gray-300">${stock.Sector}</td>
+                        <td class="p-4 text-emerald-400 font-medium">${stock.Vol_Ratio.toFixed(2)}x</td>
+                        <td class="p-4 text-blue-400 font-medium">${stock.Del_Ratio.toFixed(2)}x</td>
+                        <td class="p-4"><span class="${badgeClass} px-3 py-1 rounded-md text-xs font-semibold">${badgeText}</span></td>
+                    `;
+                    tbody.appendChild(tr);
+                });
+            })
+            .catch(error => {
+                console.error("Error fetching data.json:", error);
+                document.getElementById('table-body').innerHTML = `<tr><td colspan="5" class="p-4 text-center text-red-400">Please run this file via Local Server to load JSON data.</td></tr>`;
+            });
+    </script>
+</body>
+</html>
