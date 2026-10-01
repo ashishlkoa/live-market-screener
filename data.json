@@ -1,0 +1,140 @@
+{
+    "last_updated": "30-09-2026 (End of Day)",
+    "total_breakouts": 239,
+    "top_sectors": [
+        {
+            "Sector": "Construction",
+            "Sector_Del_Ratio": 1.1673519126063374
+        },
+        {
+            "Sector": "Services",
+            "Sector_Del_Ratio": 1.1524065351578687
+        },
+        {
+            "Sector": "Healthcare",
+            "Sector_Del_Ratio": 1.1515465516669832
+        }
+    ],
+    "stocks": [
+        {
+            "SYMBOL": "SUNLOC",
+            "Sector": "Others",
+            "Vol_Ratio": 168.0,
+            "Del_Ratio": 67.5
+        },
+        {
+            "SYMBOL": "UNIONGOLD",
+            "Sector": "Others",
+            "Vol_Ratio": 36.725118483412324,
+            "Del_Ratio": 61.40425531914894
+        },
+        {
+            "SYMBOL": "JSWHL",
+            "Sector": "Others",
+            "Vol_Ratio": 28.598782512451578,
+            "Del_Ratio": 57.89119170984456
+        },
+        {
+            "SYMBOL": "ESTER",
+            "Sector": "Others",
+            "Vol_Ratio": 82.15065938756712,
+            "Del_Ratio": 48.720706771710915
+        },
+        {
+            "SYMBOL": "BANKADD",
+            "Sector": "Others",
+            "Vol_Ratio": 18.63140273067223,
+            "Del_Ratio": 27.28166431593794
+        },
+        {
+            "SYMBOL": "PVTBANK",
+            "Sector": "Others",
+            "Vol_Ratio": 12.711614372469636,
+            "Del_Ratio": 25.39028144239226
+        },
+        {
+            "SYMBOL": "AIROLAM",
+            "Sector": "Others",
+            "Vol_Ratio": 32.333333333333336,
+            "Del_Ratio": 25.045751633986928
+        },
+        {
+            "SYMBOL": "BBETF0432",
+            "Sector": "Others",
+            "Vol_Ratio": 17.415966386554622,
+            "Del_Ratio": 20.13643031784841
+        },
+        {
+            "SYMBOL": "ARTNIRMAN",
+            "Sector": "Others",
+            "Vol_Ratio": 25.7984496124031,
+            "Del_Ratio": 19.733333333333334
+        },
+        {
+            "SYMBOL": "LGHL",
+            "Sector": "Others",
+            "Vol_Ratio": 9.872853185595568,
+            "Del_Ratio": 19.672777777777778
+        },
+        {
+            "SYMBOL": "GNRL",
+            "Sector": "Others",
+            "Vol_Ratio": 11.239870020523075,
+            "Del_Ratio": 18.312505008949323
+        },
+        {
+            "SYMBOL": "MARKOLINES",
+            "Sector": "Others",
+            "Vol_Ratio": 5.69649061639636,
+            "Del_Ratio": 16.71206111355957
+        },
+        {
+            "SYMBOL": "FAZE3Q",
+            "Sector": "Others",
+            "Vol_Ratio": 43.25631924276649,
+            "Del_Ratio": 16.134472106123933
+        },
+        {
+            "SYMBOL": "TVSELECT",
+            "Sector": "Others",
+            "Vol_Ratio": 108.2925704989154,
+            "Del_Ratio": 15.43381755842281
+        },
+        {
+            "SYMBOL": "MUKTAARTS",
+            "Sector": "Others",
+            "Vol_Ratio": 8.087719298245615,
+            "Del_Ratio": 15.054744525547445
+        },
+        {
+            "SYMBOL": "BLEL",
+            "Sector": "Others",
+            "Vol_Ratio": 61.99386498192077,
+            "Del_Ratio": 14.51453904333606
+        },
+        {
+            "SYMBOL": "BVCL",
+            "Sector": "Others",
+            "Vol_Ratio": 13.900442052661926,
+            "Del_Ratio": 14.351674641148325
+        },
+        {
+            "SYMBOL": "ESILVER",
+            "Sector": "Others",
+            "Vol_Ratio": 7.859814826322004,
+            "Del_Ratio": 13.804264217168889
+        },
+        {
+            "SYMBOL": "TPLPLASTEH",
+            "Sector": "Others",
+            "Vol_Ratio": 20.734471713853157,
+            "Del_Ratio": 11.844378925778747
+        },
+        {
+            "SYMBOL": "SHIVAUM",
+            "Sector": "Others",
+            "Vol_Ratio": 9.291995148574895,
+            "Del_Ratio": 10.225407680168333
+        }
+    ]
+}
