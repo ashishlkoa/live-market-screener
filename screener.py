@@ -6,7 +6,7 @@ import json # <-- NAYA: Website ke data ke liye
 
 # === TELEGRAM BOT CREDENTIALS ===
 TELEGRAM_BOT_TOKEN = "8912515907:AAHDoxsiwqDoJf6M1OZNIxPD6eUO7Ur2rsE"  
-TELEGRAM_CHAT_ID = "YAHAN_APNA_NUMBER_DALEIN" # Apna Chat ID dalein
+TELEGRAM_CHAT_ID = "795314530" # Apna Chat ID dalein
 # ================================
 
 def get_trading_dates():
