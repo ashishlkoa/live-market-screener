@@ -1,19 +1,140 @@
 {
-    "last_updated": "02-10-2026 (End of Day)",
-    "total_breakouts": 0,
+    "last_updated": "05-10-2026 (End of Day)",
+    "total_breakouts": 165,
     "top_sectors": [
         {
-            "Sector": "Automobile and Auto Components",
-            "Sector_Del_Ratio": 1.0
+            "Sector": "Services",
+            "Sector_Del_Ratio": 1.507022988498895
         },
         {
-            "Sector": "Capital Goods",
-            "Sector_Del_Ratio": 1.0
+            "Sector": "Fast Moving Consumer Goods",
+            "Sector_Del_Ratio": 1.390023800885985
         },
         {
-            "Sector": "Chemicals",
-            "Sector_Del_Ratio": 1.0
+            "Sector": "Information Technology",
+            "Sector_Del_Ratio": 1.2863896878566374
         }
     ],
-    "stocks": []
+    "stocks": [
+        {
+            "SYMBOL": "QUINTEGRA",
+            "Sector": "Others",
+            "Vol_Ratio": 139.74496644295303,
+            "Del_Ratio": 139.71140939597316
+        },
+        {
+            "SYMBOL": "HINDCOMPOS",
+            "Sector": "Others",
+            "Vol_Ratio": 34.73601789709172,
+            "Del_Ratio": 35.37955346650999
+        },
+        {
+            "SYMBOL": "SETFNIFBK",
+            "Sector": "Others",
+            "Vol_Ratio": 8.547550128940582,
+            "Del_Ratio": 27.221666666666668
+        },
+        {
+            "SYMBOL": "GROWWN200",
+            "Sector": "Others",
+            "Vol_Ratio": 17.624705707680235,
+            "Del_Ratio": 21.941896618732997
+        },
+        {
+            "SYMBOL": "HBESD",
+            "Sector": "Others",
+            "Vol_Ratio": 19.253246753246753,
+            "Del_Ratio": 21.386331938633194
+        },
+        {
+            "SYMBOL": "PRUDMOULI",
+            "Sector": "Others",
+            "Vol_Ratio": 21.806896551724137,
+            "Del_Ratio": 19.63347164591978
+        },
+        {
+            "SYMBOL": "KRISHNADEF",
+            "Sector": "Others",
+            "Vol_Ratio": 21.743753403109686,
+            "Del_Ratio": 9.45470860797494
+        },
+        {
+            "SYMBOL": "NIFTYADD",
+            "Sector": "Others",
+            "Vol_Ratio": 6.578709043530266,
+            "Del_Ratio": 8.802757225067982
+        },
+        {
+            "SYMBOL": "DCMFINSERV",
+            "Sector": "Others",
+            "Vol_Ratio": 5.014957780458384,
+            "Del_Ratio": 8.517227065172271
+        },
+        {
+            "SYMBOL": "NIRAJ",
+            "Sector": "Others",
+            "Vol_Ratio": 8.837162162162162,
+            "Del_Ratio": 8.1
+        },
+        {
+            "SYMBOL": "VOEPL",
+            "Sector": "Others",
+            "Vol_Ratio": 53.479158833997545,
+            "Del_Ratio": 6.356673960612691
+        },
+        {
+            "SYMBOL": "ODYCORP",
+            "Sector": "Others",
+            "Vol_Ratio": 5.818815331010453,
+            "Del_Ratio": 6.220460551151378
+        },
+        {
+            "SYMBOL": "ROML",
+            "Sector": "Others",
+            "Vol_Ratio": 3.8490136570561457,
+            "Del_Ratio": 6.183499288762446
+        },
+        {
+            "SYMBOL": "TGBHOTELS",
+            "Sector": "Others",
+            "Vol_Ratio": 3.852596314907873,
+            "Del_Ratio": 5.939247311827957
+        },
+        {
+            "SYMBOL": "DCMSRIND",
+            "Sector": "Others",
+            "Vol_Ratio": 32.96979123499115,
+            "Del_Ratio": 5.932019832985386
+        },
+        {
+            "SYMBOL": "MIDCAPIETF",
+            "Sector": "Others",
+            "Vol_Ratio": 3.4136229622415484,
+            "Del_Ratio": 5.829801301827825
+        },
+        {
+            "SYMBOL": "DCMSHRIRAM",
+            "Sector": "Others",
+            "Vol_Ratio": 7.008970808815046,
+            "Del_Ratio": 5.825956914157718
+        },
+        {
+            "SYMBOL": "HARDWYN",
+            "Sector": "Others",
+            "Vol_Ratio": 6.390686565082465,
+            "Del_Ratio": 5.725972149619562
+        },
+        {
+            "SYMBOL": "KUSUMGAR",
+            "Sector": "Others",
+            "Vol_Ratio": 3.0735468994283575,
+            "Del_Ratio": 5.688534597802323
+        },
+        {
+            "SYMBOL": "MANALIPETC",
+            "Sector": "Others",
+            "Vol_Ratio": 22.006897996986982,
+            "Del_Ratio": 5.687138726830468
+        }
+    ]
 }
