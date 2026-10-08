@@ -1,140 +1,140 @@
 {
-    "last_updated": "07-10-2026 (End of Day)",
-    "total_breakouts": 240,
+    "last_updated": "08-10-2026 (End of Day)",
+    "total_breakouts": 70,
     "top_sectors": [
         {
-            "Sector": "Construction Materials",
-            "Sector_Del_Ratio": 1.4962119141173644
+            "Sector": "Diversified",
+            "Sector_Del_Ratio": 9.49424642155487
         },
         {
-            "Sector": "Fast Moving Consumer Goods",
-            "Sector_Del_Ratio": 1.4552943095882283
+            "Sector": "Services",
+            "Sector_Del_Ratio": 2.7747576189824676
         },
         {
-            "Sector": "Media Entertainment & Publication",
-            "Sector_Del_Ratio": 1.2832015969995234
+            "Sector": "Information Technology",
+            "Sector_Del_Ratio": 1.755761220204164
         }
     ],
     "stocks": [
         {
-            "SYMBOL": "AIROLAM",
+            "SYMBOL": "SHANTI",
             "Sector": "Others",
-            "Vol_Ratio": 118.26515151515152,
-            "Del_Ratio": 90.61111111111111
+            "Vol_Ratio": 56.35852713178294,
+            "Del_Ratio": 74.61036157582299
         },
         {
-            "SYMBOL": "JKIPL",
+            "SYMBOL": "MMWL",
             "Sector": "Others",
-            "Vol_Ratio": 20.98579970104634,
-            "Del_Ratio": 28.614507772020726
+            "Vol_Ratio": 65.54834534236528,
+            "Del_Ratio": 50.304828062303145
         },
         {
-            "SYMBOL": "WIPL",
+            "SYMBOL": "FINOPB",
             "Sector": "Others",
-            "Vol_Ratio": 21.839285714285715,
-            "Del_Ratio": 26.771428571428572
+            "Vol_Ratio": 477.66931420887494,
+            "Del_Ratio": 44.90239986479635
         },
         {
-            "SYMBOL": "CINELINE",
+            "SYMBOL": "GANGESSECU",
             "Sector": "Others",
-            "Vol_Ratio": 20.8,
-            "Del_Ratio": 26.15196522369136
+            "Vol_Ratio": 33.89090909090909,
+            "Del_Ratio": 36.60606060606061
         },
         {
-            "SYMBOL": "TRANSCOR",
+            "SYMBOL": "LAL",
             "Sector": "Others",
-            "Vol_Ratio": 20.55448717948718,
-            "Del_Ratio": 20.39967897271268
+            "Vol_Ratio": 16.991274298056155,
+            "Del_Ratio": 19.525292998096763
         },
         {
-            "SYMBOL": "VGCL",
+            "SYMBOL": "INDOKEM",
             "Sector": "Others",
-            "Vol_Ratio": 16.46153846153846,
-            "Del_Ratio": 17.833333333333332
+            "Vol_Ratio": 139.14292486371178,
+            "Del_Ratio": 19.323262839879153
         },
         {
-            "SYMBOL": "UMESLTD",
+            "SYMBOL": "LIQUIDSHRI",
             "Sector": "Others",
-            "Vol_Ratio": 16.586442608943322,
-            "Del_Ratio": 15.663691333141376
+            "Vol_Ratio": 15.096828046744575,
+            "Del_Ratio": 15.902714932126697
         },
         {
-            "SYMBOL": "NELCAST",
+            "SYMBOL": "HEALTHX",
             "Sector": "Others",
-            "Vol_Ratio": 28.837599491155387,
-            "Del_Ratio": 15.363706992230854
+            "Vol_Ratio": 38.40277777777778,
+            "Del_Ratio": 14.19864406779661
         },
         {
-            "SYMBOL": "GSEC10YEAR",
+            "SYMBOL": "MOTOGENFIN",
             "Sector": "Others",
-            "Vol_Ratio": 8.048046699595869,
-            "Del_Ratio": 15.359800111049417
+            "Vol_Ratio": 15.276983094928479,
+            "Del_Ratio": 13.235955056179776
         },
         {
-            "SYMBOL": "RELTD",
+            "SYMBOL": "UDAYJEW",
             "Sector": "Others",
-            "Vol_Ratio": 8.060477548643362,
-            "Del_Ratio": 15.311457792929668
+            "Vol_Ratio": 20.929340856629906,
+            "Del_Ratio": 13.01247947454844
         },
         {
-            "SYMBOL": "CINEVISTA",
+            "SYMBOL": "MANBA",
             "Sector": "Others",
-            "Vol_Ratio": 38.233002193265385,
-            "Del_Ratio": 14.138163684364917
+            "Vol_Ratio": 10.762171901232545,
+            "Del_Ratio": 12.780575945793338
         },
         {
-            "SYMBOL": "3MINDIA",
+            "SYMBOL": "BROOKS",
             "Sector": "Others",
-            "Vol_Ratio": 7.658333333333333,
-            "Del_Ratio": 14.044416243654823
+            "Vol_Ratio": 19.04965783692331,
+            "Del_Ratio": 9.713783480916701
         },
         {
-            "SYMBOL": "BLUECLOUDS",
+            "SYMBOL": "STERTOOLS",
             "Sector": "Others",
-            "Vol_Ratio": 48.87759242092311,
-            "Del_Ratio": 13.867466038857325
+            "Vol_Ratio": 10.147991211550533,
+            "Del_Ratio": 8.213297189328006
         },
         {
-            "SYMBOL": "HDFCNIFBAN",
-            "Sector": "Others",
-            "Vol_Ratio": 14.907418670175133,
-            "Del_Ratio": 13.79565058722049
+            "SYMBOL": "FSL",
+            "Sector": "Services",
+            "Vol_Ratio": 25.506226930585598,
+            "Del_Ratio": 6.686295025616468
         },
         {
-            "SYMBOL": "GLFL",
+            "SYMBOL": "DHRUV",
             "Sector": "Others",
-            "Vol_Ratio": 12.865125240847783,
-            "Del_Ratio": 10.562344139650873
+            "Vol_Ratio": 7.732860520094563,
+            "Del_Ratio": 6.627754615842764
         },
         {
-            "SYMBOL": "LICMFGOLD",
+            "SYMBOL": "SILINV",
             "Sector": "Others",
-            "Vol_Ratio": 5.847670296927977,
-            "Del_Ratio": 10.390702835422717
+            "Vol_Ratio": 5.436052921719956,
+            "Del_Ratio": 6.3912119064493265
         },
         {
-            "SYMBOL": "ESDS",
+            "SYMBOL": "QUINTEGRA",
             "Sector": "Others",
-            "Vol_Ratio": 16.93246190243322,
-            "Del_Ratio": 9.894117180424535
+            "Vol_Ratio": 6.29559748427673,
+            "Del_Ratio": 6.29559748427673
         },
         {
-            "SYMBOL": "TBOTEK",
-            "Sector": "Consumer Services",
-            "Vol_Ratio": 10.886558514849817,
-            "Del_Ratio": 9.781194102006285
+            "SYMBOL": "LIQUID1",
+            "Sector": "Others",
+            "Vol_Ratio": 3.4541855540088755,
+            "Del_Ratio": 5.720367467126386
         },
         {
-            "SYMBOL": "GPTINFRA",
+            "SYMBOL": "HPIL",
             "Sector": "Others",
-            "Vol_Ratio": 12.34880433026337,
-            "Del_Ratio": 9.160510302778016
+            "Vol_Ratio": 4.448844884488449,
+            "Del_Ratio": 5.578947368421052
         },
         {
-            "SYMBOL": "TECILCHEM",
+            "SYMBOL": "SENCO",
             "Sector": "Others",
-            "Vol_Ratio": 8.538679914833216,
-            "Del_Ratio": 9.128215767634854
+            "Vol_Ratio": 38.933130464989965,
+            "Del_Ratio": 5.482761431876353
         }
     ]
 }
