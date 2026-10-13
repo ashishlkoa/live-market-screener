@@ -1,140 +1,140 @@
 {
-    "last_updated": "12-10-2026 (End of Day)",
-    "total_breakouts": 272,
+    "last_updated": "13-10-2026 (End of Day)",
+    "total_breakouts": 189,
     "top_sectors": [
         {
-            "Sector": "Consumer Services",
-            "Sector_Del_Ratio": 1.6808665715890145
+            "Sector": "Diversified",
+            "Sector_Del_Ratio": 7.623773914732446
         },
         {
-            "Sector": "Telecommunication",
-            "Sector_Del_Ratio": 1.6609190647961707
+            "Sector": "Information Technology",
+            "Sector_Del_Ratio": 2.198632881733558
         },
         {
-            "Sector": "Media Entertainment & Publication",
-            "Sector_Del_Ratio": 1.4678104473314504
+            "Sector": "Textiles",
+            "Sector_Del_Ratio": 1.4870486409312451
         }
     ],
     "stocks": [
         {
-            "SYMBOL": "MOTOGENFIN",
+            "SYMBOL": "ITADD",
             "Sector": "Others",
-            "Vol_Ratio": 136.10188679245283,
-            "Del_Ratio": 223.45774647887325
+            "Vol_Ratio": 28.731966095667122,
+            "Del_Ratio": 144.63546798029557
         },
         {
-            "SYMBOL": "QUINTEGRA",
+            "SYMBOL": "BANK10ADD",
             "Sector": "Others",
-            "Vol_Ratio": 158.88888888888889,
-            "Del_Ratio": 158.88888888888889
+            "Vol_Ratio": 61.198721470309145,
+            "Del_Ratio": 100.96586715867159
         },
         {
-            "SYMBOL": "PHOENXINTL",
+            "SYMBOL": "ITIETF",
             "Sector": "Others",
-            "Vol_Ratio": 78.21784776902886,
-            "Del_Ratio": 65.66576819407008
+            "Vol_Ratio": 49.62764077935651,
+            "Del_Ratio": 61.98596614005569
         },
         {
-            "SYMBOL": "GALLANTT",
-            "Sector": "Capital Goods",
-            "Vol_Ratio": 316.5142861030232,
-            "Del_Ratio": 51.86270012981393
+            "SYMBOL": "GUJRAFFIA",
+            "Sector": "Others",
+            "Vol_Ratio": 122.8768656716418,
+            "Del_Ratio": 54.739331026528255
         },
         {
-            "SYMBOL": "MON50EQUAL",
+            "SYMBOL": "IVZBANKNF",
             "Sector": "Others",
-            "Vol_Ratio": 22.183268650280294,
-            "Del_Ratio": 37.58081180811808
+            "Vol_Ratio": 53.81140350877193,
+            "Del_Ratio": 53.40528634361233
         },
         {
-            "SYMBOL": "AMAL",
+            "SYMBOL": "ARTNIRMAN",
             "Sector": "Others",
-            "Vol_Ratio": 31.180881798769,
-            "Del_Ratio": 24.24809923969588
+            "Vol_Ratio": 45.693693693693696,
+            "Del_Ratio": 49.560661764705884
         },
         {
-            "SYMBOL": "HBSL",
+            "SYMBOL": "SURAJLTD",
             "Sector": "Others",
-            "Vol_Ratio": 14.448529411764707,
-            "Del_Ratio": 19.75531914893617
+            "Vol_Ratio": 40.916666666666664,
+            "Del_Ratio": 41.160377358490564
         },
         {
-            "SYMBOL": "SAICAPI",
+            "SYMBOL": "KANCOTEA",
             "Sector": "Others",
-            "Vol_Ratio": 22.42056074766355,
-            "Del_Ratio": 19.26
+            "Vol_Ratio": 22.666666666666668,
+            "Del_Ratio": 26.52027027027027
         },
         {
-            "SYMBOL": "SHRINGARMS",
+            "SYMBOL": "AURUM",
             "Sector": "Others",
-            "Vol_Ratio": 25.199882883023097,
-            "Del_Ratio": 16.546605376093083
+            "Vol_Ratio": 104.4807045851822,
+            "Del_Ratio": 23.291094173101996
         },
         {
-            "SYMBOL": "MAWANASUG",
+            "SYMBOL": "LAMBODHARA",
             "Sector": "Others",
-            "Vol_Ratio": 16.417530778567713,
-            "Del_Ratio": 16.028500271848745
+            "Vol_Ratio": 42.19634703196347,
+            "Del_Ratio": 20.49553361542078
         },
         {
-            "SYMBOL": "NEXT50",
+            "SYMBOL": "SBIETFQLTY",
             "Sector": "Others",
-            "Vol_Ratio": 7.361358095511258,
-            "Del_Ratio": 15.739654312780456
+            "Vol_Ratio": 17.895854398382205,
+            "Del_Ratio": 19.22173435784852
         },
         {
-            "SYMBOL": "SWARAJENG",
+            "SYMBOL": "ITBETA",
             "Sector": "Others",
-            "Vol_Ratio": 177.80925949287246,
-            "Del_Ratio": 14.249544994944388
+            "Vol_Ratio": 5.536458333333333,
+            "Del_Ratio": 14.532051282051283
         },
         {
-            "SYMBOL": "ASIANTILES",
+            "SYMBOL": "OPTIFIN",
             "Sector": "Others",
-            "Vol_Ratio": 42.17842623336558,
-            "Del_Ratio": 14.061888193694951
+            "Vol_Ratio": 11.582357453336742,
+            "Del_Ratio": 14.375954345646642
         },
         {
-            "SYMBOL": "COMSYN",
+            "SYMBOL": "TECH",
             "Sector": "Others",
-            "Vol_Ratio": 12.263878885760638,
-            "Del_Ratio": 13.781757125024175
+            "Vol_Ratio": 4.819004524886878,
+            "Del_Ratio": 13.954646757298864
         },
         {
-            "SYMBOL": "PSUBANK",
+            "SYMBOL": "ABSLBANETF",
             "Sector": "Others",
-            "Vol_Ratio": 8.489574920423774,
-            "Del_Ratio": 12.450225357632766
+            "Vol_Ratio": 7.436913155936647,
+            "Del_Ratio": 13.492892428672246
         },
         {
-            "SYMBOL": "GOODLUCK",
+            "SYMBOL": "VIKRAN",
             "Sector": "Others",
-            "Vol_Ratio": 36.59231140033743,
-            "Del_Ratio": 11.943256873570398
+            "Vol_Ratio": 107.49411077796248,
+            "Del_Ratio": 13.36482336843052
         },
         {
-            "SYMBOL": "ANDHRAPAP",
+            "SYMBOL": "RUCHINFRA",
             "Sector": "Others",
-            "Vol_Ratio": 32.40781575174583,
-            "Del_Ratio": 10.865514465858785
+            "Vol_Ratio": 13.227775197398978,
+            "Del_Ratio": 12.527120619899883
         },
         {
-            "SYMBOL": "WSTCSTPAPR",
+            "SYMBOL": "SAGARDEEP",
             "Sector": "Others",
-            "Vol_Ratio": 24.259270707867444,
-            "Del_Ratio": 10.696835571149045
+            "Vol_Ratio": 23.216836294635158,
+            "Del_Ratio": 11.780159521435692
         },
         {
-            "SYMBOL": "ABSLMSCIN",
+            "SYMBOL": "IGCL",
             "Sector": "Others",
-            "Vol_Ratio": 6.103448275862069,
-            "Del_Ratio": 10.58
+            "Vol_Ratio": 6.078958045930374,
+            "Del_Ratio": 11.09156813063063
         },
         {
-            "SYMBOL": "GRMOVER",
+            "SYMBOL": "DONEAR",
             "Sector": "Others",
-            "Vol_Ratio": 8.246410301696468,
-            "Del_Ratio": 10.474797244266155
+            "Vol_Ratio": 23.815575221238937,
+            "Del_Ratio": 10.82967032967033
         }
     ]
 }
