@@ -1,140 +1,140 @@
 {
-    "last_updated": "16-10-2026 (End of Day)",
-    "total_breakouts": 216,
+    "last_updated": "19-10-2026 (End of Day)",
+    "total_breakouts": 112,
     "top_sectors": [
         {
-            "Sector": "Information Technology",
-            "Sector_Del_Ratio": 1.7572895322499529
+            "Sector": "Media Entertainment & Publication",
+            "Sector_Del_Ratio": 2.076271182969996
         },
         {
-            "Sector": "Consumer Durables",
-            "Sector_Del_Ratio": 1.7077385031769448
+            "Sector": "Textiles",
+            "Sector_Del_Ratio": 1.3746572554732017
         },
         {
-            "Sector": "Others",
-            "Sector_Del_Ratio": 1.3861597965917376
+            "Sector": "Chemicals",
+            "Sector_Del_Ratio": 1.1387386827253247
         }
     ],
     "stocks": [
         {
-            "SYMBOL": "SONAL",
+            "SYMBOL": "ABCOTS",
             "Sector": "Others",
-            "Vol_Ratio": 106.5,
-            "Del_Ratio": 105.5
+            "Vol_Ratio": 21.21875,
+            "Del_Ratio": 43.12903225806452
         },
         {
-            "SYMBOL": "IVZSENSEX",
+            "SYMBOL": "LAGNAM",
             "Sector": "Others",
-            "Vol_Ratio": 96.84848484848484,
-            "Del_Ratio": 104.57377049180327
+            "Vol_Ratio": 30.148287671232875,
+            "Del_Ratio": 30.46841673502871
         },
         {
-            "SYMBOL": "HSBCGOLD",
+            "SYMBOL": "PLATIND",
             "Sector": "Others",
-            "Vol_Ratio": 21.700082169268693,
-            "Del_Ratio": 50.81322957198444
+            "Vol_Ratio": 386.14769120913996,
+            "Del_Ratio": 29.21595608692383
         },
         {
-            "SYMBOL": "WORTHPERI",
+            "SYMBOL": "HDFCPSUBK",
             "Sector": "Others",
-            "Vol_Ratio": 89.78068535825545,
-            "Del_Ratio": 41.78566688785667
+            "Vol_Ratio": 16.014671976524838,
+            "Del_Ratio": 18.6435389133627
         },
         {
-            "SYMBOL": "LICNETFN50",
+            "SYMBOL": "VAL30IETF",
             "Sector": "Others",
-            "Vol_Ratio": 27.176470588235293,
-            "Del_Ratio": 36.333333333333336
+            "Vol_Ratio": 10.375733828836108,
+            "Del_Ratio": 16.940182535767143
         },
         {
-            "SYMBOL": "SBIETFPB",
+            "SYMBOL": "MANAKCOAT",
             "Sector": "Others",
-            "Vol_Ratio": 26.032365540218944,
-            "Del_Ratio": 29.18986529826812
+            "Vol_Ratio": 12.478110501897934,
+            "Del_Ratio": 16.669887761839025
         },
         {
-            "SYMBOL": "GROWWN200",
+            "SYMBOL": "SWARNSAR",
             "Sector": "Others",
-            "Vol_Ratio": 23.36374765951318,
-            "Del_Ratio": 28.213035281443577
+            "Vol_Ratio": 19.43733557823845,
+            "Del_Ratio": 16.22652718584528
         },
         {
-            "SYMBOL": "COMFINTE",
+            "SYMBOL": "PSUBANKADD",
             "Sector": "Others",
-            "Vol_Ratio": 31.189087424384596,
-            "Del_Ratio": 24.925126341664505
+            "Vol_Ratio": 11.467901878914406,
+            "Del_Ratio": 12.912295604162242
         },
         {
-            "SYMBOL": "ACGL",
+            "SYMBOL": "GANESHCP",
             "Sector": "Others",
-            "Vol_Ratio": 142.11157024793388,
-            "Del_Ratio": 22.517543859649123
+            "Vol_Ratio": 132.3988467496701,
+            "Del_Ratio": 12.615789030955586
         },
         {
-            "SYMBOL": "MCCHRLS-B",
+            "SYMBOL": "VISACHROME",
             "Sector": "Others",
-            "Vol_Ratio": 15.259358288770054,
-            "Del_Ratio": 19.557312252964426
+            "Vol_Ratio": 11.6890756302521,
+            "Del_Ratio": 12.374002455494168
         },
         {
-            "SYMBOL": "LARGEMID50",
+            "SYMBOL": "AGOL",
             "Sector": "Others",
-            "Vol_Ratio": 10.207451701931923,
-            "Del_Ratio": 16.303846153846155
+            "Vol_Ratio": 12.516790837530882,
+            "Del_Ratio": 10.188830931811662
         },
         {
-            "SYMBOL": "SINTERCOM",
+            "SYMBOL": "INDNIPPON",
             "Sector": "Others",
-            "Vol_Ratio": 14.291666666666666,
-            "Del_Ratio": 15.25278810408922
+            "Vol_Ratio": 22.002347255781842,
+            "Del_Ratio": 8.994373827880809
         },
         {
-            "SYMBOL": "GSEC10IETF",
+            "SYMBOL": "BHARATRAS",
             "Sector": "Others",
-            "Vol_Ratio": 16.0,
-            "Del_Ratio": 15.0
+            "Vol_Ratio": 7.387647200192261,
+            "Del_Ratio": 8.531742458352094
         },
         {
-            "SYMBOL": "TECH",
+            "SYMBOL": "KHAITANLTD",
             "Sector": "Others",
-            "Vol_Ratio": 11.840952021156026,
-            "Del_Ratio": 13.603400534942088
+            "Vol_Ratio": 4.890086206896552,
+            "Del_Ratio": 8.142857142857142
         },
         {
-            "SYMBOL": "SINGERIND",
+            "SYMBOL": "AMARJOTHI",
             "Sector": "Others",
-            "Vol_Ratio": 30.844761511283338,
-            "Del_Ratio": 13.09228697090882
+            "Vol_Ratio": 11.5,
+            "Del_Ratio": 8.11111111111111
         },
         {
-            "SYMBOL": "INDPRUD",
+            "SYMBOL": "OMFREIGHT",
             "Sector": "Others",
-            "Vol_Ratio": 18.0,
-            "Del_Ratio": 13.0
+            "Vol_Ratio": 6.696453338617,
+            "Del_Ratio": 7.589147286821706
         },
         {
-            "SYMBOL": "PFS",
+            "SYMBOL": "CARERATING",
             "Sector": "Others",
-            "Vol_Ratio": 145.62448863724742,
-            "Del_Ratio": 12.742291105825776
+            "Vol_Ratio": 5.294389685616855,
+            "Del_Ratio": 7.424879508060496
         },
         {
-            "SYMBOL": "SHRADDHA",
+            "SYMBOL": "MIDWESTLTD",
             "Sector": "Others",
-            "Vol_Ratio": 10.357870606214977,
-            "Del_Ratio": 12.709154929577466
+            "Vol_Ratio": 4.344453412250022,
+            "Del_Ratio": 7.421994884910486
         },
         {
-            "SYMBOL": "HDFCQUAL",
+            "SYMBOL": "BCPL",
             "Sector": "Others",
-            "Vol_Ratio": 15.440620272314675,
-            "Del_Ratio": 11.688195991091314
+            "Vol_Ratio": 7.90448605685033,
+            "Del_Ratio": 7.211623388093976
         },
         {
-            "SYMBOL": "BANKADD",
+            "SYMBOL": "PSUBNKIETF",
             "Sector": "Others",
-            "Vol_Ratio": 9.222182211019085,
-            "Del_Ratio": 10.8525921299188
+            "Vol_Ratio": 7.181095345808486,
+            "Del_Ratio": 7.19446386131693
         }
     ]
 }
