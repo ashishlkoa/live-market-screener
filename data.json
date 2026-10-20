@@ -1,140 +1,19 @@
 {
-    "last_updated": "19-10-2026 (End of Day)",
-    "total_breakouts": 112,
+    "last_updated": "20-10-2026 (End of Day)",
+    "total_breakouts": 0,
     "top_sectors": [
         {
-            "Sector": "Media Entertainment & Publication",
-            "Sector_Del_Ratio": 2.076271182969996
+            "Sector": "Automobile and Auto Components",
+            "Sector_Del_Ratio": 1.0
         },
         {
-            "Sector": "Textiles",
-            "Sector_Del_Ratio": 1.3746572554732017
+            "Sector": "Capital Goods",
+            "Sector_Del_Ratio": 1.0
         },
         {
             "Sector": "Chemicals",
-            "Sector_Del_Ratio": 1.1387386827253247
+            "Sector_Del_Ratio": 1.0
         }
     ],
-    "stocks": [
-        {
-            "SYMBOL": "ABCOTS",
-            "Sector": "Others",
-            "Vol_Ratio": 21.21875,
-            "Del_Ratio": 43.12903225806452
-        },
-        {
-            "SYMBOL": "LAGNAM",
-            "Sector": "Others",
-            "Vol_Ratio": 30.148287671232875,
-            "Del_Ratio": 30.46841673502871
-        },
-        {
-            "SYMBOL": "PLATIND",
-            "Sector": "Others",
-            "Vol_Ratio": 386.14769120913996,
-            "Del_Ratio": 29.21595608692383
-        },
-        {
-            "SYMBOL": "HDFCPSUBK",
-            "Sector": "Others",
-            "Vol_Ratio": 16.014671976524838,
-            "Del_Ratio": 18.6435389133627
-        },
-        {
-            "SYMBOL": "VAL30IETF",
-            "Sector": "Others",
-            "Vol_Ratio": 10.375733828836108,
-            "Del_Ratio": 16.940182535767143
-        },
-        {
-            "SYMBOL": "MANAKCOAT",
-            "Sector": "Others",
-            "Vol_Ratio": 12.478110501897934,
-            "Del_Ratio": 16.669887761839025
-        },
-        {
-            "SYMBOL": "SWARNSAR",
-            "Sector": "Others",
-            "Vol_Ratio": 19.43733557823845,
-            "Del_Ratio": 16.22652718584528
-        },
-        {
-            "SYMBOL": "PSUBANKADD",
-            "Sector": "Others",
-            "Vol_Ratio": 11.467901878914406,
-            "Del_Ratio": 12.912295604162242
-        },
-        {
-            "SYMBOL": "GANESHCP",
-            "Sector": "Others",
-            "Vol_Ratio": 132.3988467496701,
-            "Del_Ratio": 12.615789030955586
-        },
-        {
-            "SYMBOL": "VISACHROME",
-            "Sector": "Others",
-            "Vol_Ratio": 11.6890756302521,
-            "Del_Ratio": 12.374002455494168
-        },
-        {
-            "SYMBOL": "AGOL",
-            "Sector": "Others",
-            "Vol_Ratio": 12.516790837530882,
-            "Del_Ratio": 10.188830931811662
-        },
-        {
-            "SYMBOL": "INDNIPPON",
-            "Sector": "Others",
-            "Vol_Ratio": 22.002347255781842,
-            "Del_Ratio": 8.994373827880809
-        },
-        {
-            "SYMBOL": "BHARATRAS",
-            "Sector": "Others",
-            "Vol_Ratio": 7.387647200192261,
-            "Del_Ratio": 8.531742458352094
-        },
-        {
-            "SYMBOL": "KHAITANLTD",
-            "Sector": "Others",
-            "Vol_Ratio": 4.890086206896552,
-            "Del_Ratio": 8.142857142857142
-        },
-        {
-            "SYMBOL": "AMARJOTHI",
-            "Sector": "Others",
-            "Vol_Ratio": 11.5,
-            "Del_Ratio": 8.11111111111111
-        },
-        {
-            "SYMBOL": "OMFREIGHT",
-            "Sector": "Others",
-            "Vol_Ratio": 6.696453338617,
-            "Del_Ratio": 7.589147286821706
-        },
-        {
-            "SYMBOL": "CARERATING",
-            "Sector": "Others",
-            "Vol_Ratio": 5.294389685616855,
-            "Del_Ratio": 7.424879508060496
-        },
-        {
-            "SYMBOL": "MIDWESTLTD",
-            "Sector": "Others",
-            "Vol_Ratio": 4.344453412250022,
-            "Del_Ratio": 7.421994884910486
-        },
-        {
-            "SYMBOL": "BCPL",
-            "Sector": "Others",
-            "Vol_Ratio": 7.90448605685033,
-            "Del_Ratio": 7.211623388093976
-        },
-        {
-            "SYMBOL": "PSUBNKIETF",
-            "Sector": "Others",
-            "Vol_Ratio": 7.181095345808486,
-            "Del_Ratio": 7.19446386131693
-        }
-    ]
+    "stocks": []
 }
