@@ -1,19 +1,140 @@
 {
-    "last_updated": "20-10-2026 (End of Day)",
-    "total_breakouts": 0,
+    "last_updated": "21-10-2026 (End of Day)",
+    "total_breakouts": 62,
     "top_sectors": [
         {
-            "Sector": "Automobile and Auto Components",
-            "Sector_Del_Ratio": 1.0
+            "Sector": "Consumer Services",
+            "Sector_Del_Ratio": 2.0833237412335057
         },
         {
-            "Sector": "Capital Goods",
-            "Sector_Del_Ratio": 1.0
+            "Sector": "Consumer Durables",
+            "Sector_Del_Ratio": 2.0718710810675747
         },
         {
-            "Sector": "Chemicals",
-            "Sector_Del_Ratio": 1.0
+            "Sector": "Metals & Mining",
+            "Sector_Del_Ratio": 1.9866899616266465
         }
     ],
-    "stocks": []
+    "stocks": [
+        {
+            "SYMBOL": "DCMFINSERV",
+            "Sector": "Others",
+            "Vol_Ratio": 43.490566037735846,
+            "Del_Ratio": 43.490566037735846
+        },
+        {
+            "SYMBOL": "AZADIND",
+            "Sector": "Others",
+            "Vol_Ratio": 15.302861335289801,
+            "Del_Ratio": 18.283510204081633
+        },
+        {
+            "SYMBOL": "LTTS",
+            "Sector": "Information Technology",
+            "Vol_Ratio": 78.38909792386882,
+            "Del_Ratio": 16.876560012326024
+        },
+        {
+            "SYMBOL": "SIL",
+            "Sector": "Others",
+            "Vol_Ratio": 24.81960082519325,
+            "Del_Ratio": 16.400185522822508
+        },
+        {
+            "SYMBOL": "AARTECH",
+            "Sector": "Others",
+            "Vol_Ratio": 31.242655198841863,
+            "Del_Ratio": 13.726964872378064
+        },
+        {
+            "SYMBOL": "JKCEMENT",
+            "Sector": "Construction Materials",
+            "Vol_Ratio": 6.845603426555807,
+            "Del_Ratio": 13.57637087009168
+        },
+        {
+            "SYMBOL": "ITBETA",
+            "Sector": "Others",
+            "Vol_Ratio": 11.629680054458815,
+            "Del_Ratio": 12.386243386243386
+        },
+        {
+            "SYMBOL": "GSS",
+            "Sector": "Others",
+            "Vol_Ratio": 17.299327052489907,
+            "Del_Ratio": 12.34450535758784
+        },
+        {
+            "SYMBOL": "TRANSWORLD",
+            "Sector": "Others",
+            "Vol_Ratio": 15.51987902463613,
+            "Del_Ratio": 10.353108854445038
+        },
+        {
+            "SYMBOL": "KALYANKJIL",
+            "Sector": "Consumer Durables",
+            "Vol_Ratio": 6.0165702398440075,
+            "Del_Ratio": 8.273422510981945
+        },
+        {
+            "SYMBOL": "ORIRAIL",
+            "Sector": "Others",
+            "Vol_Ratio": 32.15035730858469,
+            "Del_Ratio": 8.171169269734065
+        },
+        {
+            "SYMBOL": "TOP15IETF",
+            "Sector": "Others",
+            "Vol_Ratio": 5.726246688932397,
+            "Del_Ratio": 7.5268798436081825
+        },
+        {
+            "SYMBOL": "FRACTAL",
+            "Sector": "Information Technology",
+            "Vol_Ratio": 60.90340921710161,
+            "Del_Ratio": 5.902323653636136
+        },
+        {
+            "SYMBOL": "HALEOSLABS",
+            "Sector": "Others",
+            "Vol_Ratio": 4.673031026252984,
+            "Del_Ratio": 4.779710144927536
+        },
+        {
+            "SYMBOL": "TRANSRAILL",
+            "Sector": "Others",
+            "Vol_Ratio": 28.009079658828984,
+            "Del_Ratio": 4.612527911622988
+        },
+        {
+            "SYMBOL": "PIRAMALFIN",
+            "Sector": "Financial Services",
+            "Vol_Ratio": 7.3837859222365365,
+            "Del_Ratio": 4.280036019659328
+        },
+        {
+            "SYMBOL": "TARACHAND",
+            "Sector": "Others",
+            "Vol_Ratio": 3.866652332831649,
+            "Del_Ratio": 4.10843597202451
+        },
+        {
+            "SYMBOL": "SUNRAKSHAK",
+            "Sector": "Others",
+            "Vol_Ratio": 3.536290322580645,
+            "Del_Ratio": 3.827732279017227
+        },
+        {
+            "SYMBOL": "HEXT",
+            "Sector": "Information Technology",
+            "Vol_Ratio": 12.17028918810921,
+            "Del_Ratio": 3.5589382109347576
+        },
+        {
+            "SYMBOL": "MGL",
+            "Sector": "Oil Gas & Consumable Fuels",
+            "Vol_Ratio": 3.0046461890187692,
+            "Del_Ratio": 3.556367761043544
+        }
+    ]
 }
