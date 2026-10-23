@@ -1,140 +1,140 @@
 {
-    "last_updated": "22-10-2026 (End of Day)",
-    "total_breakouts": 29,
+    "last_updated": "23-10-2026 (End of Day)",
+    "total_breakouts": 50,
     "top_sectors": [
         {
-            "Sector": "Construction Materials",
-            "Sector_Del_Ratio": 1.5845628381223489
+            "Sector": "Diversified",
+            "Sector_Del_Ratio": 3.00331088664422
         },
         {
-            "Sector": "Media Entertainment & Publication",
-            "Sector_Del_Ratio": 1.2860007799008413
+            "Sector": "Power",
+            "Sector_Del_Ratio": 2.0511717595724113
         },
         {
-            "Sector": "Information Technology",
-            "Sector_Del_Ratio": 1.2660649090208658
+            "Sector": "Construction",
+            "Sector_Del_Ratio": 1.6575343413135346
         }
     ],
     "stocks": [
         {
-            "SYMBOL": "SEMAC",
+            "SYMBOL": "TERAI",
             "Sector": "Others",
-            "Vol_Ratio": 24.83050847457627,
-            "Del_Ratio": 20.763636363636362
+            "Vol_Ratio": 277.42857142857144,
+            "Del_Ratio": 818.0
         },
         {
-            "SYMBOL": "OMNI",
+            "SYMBOL": "JINDALPOLY",
             "Sector": "Others",
-            "Vol_Ratio": 69.25355761883054,
-            "Del_Ratio": 11.263476671170814
+            "Vol_Ratio": 670.2393155526993,
+            "Del_Ratio": 41.966196136701335
         },
         {
-            "SYMBOL": "DBEIL",
+            "SYMBOL": "SHIVAUM",
             "Sector": "Others",
-            "Vol_Ratio": 7.430741203545929,
-            "Del_Ratio": 10.511191393588893
+            "Vol_Ratio": 21.582463465553236,
+            "Del_Ratio": 25.647727272727273
         },
         {
-            "SYMBOL": "JINDALPHOT",
+            "SYMBOL": "SVGLOBAL",
             "Sector": "Others",
-            "Vol_Ratio": 7.359550561797753,
-            "Del_Ratio": 9.955631399317406
+            "Vol_Ratio": 127.55604395604395,
+            "Del_Ratio": 24.87133182844244
         },
         {
-            "SYMBOL": "SUNTECK",
+            "SYMBOL": "ITBETA",
             "Sector": "Others",
-            "Vol_Ratio": 149.1189256440281,
-            "Del_Ratio": 9.388005392789319
+            "Vol_Ratio": 6.74189364461738,
+            "Del_Ratio": 18.262295081967213
         },
         {
-            "SYMBOL": "CAPILLARY",
+            "SYMBOL": "CYIENT",
+            "Sector": "Information Technology",
+            "Vol_Ratio": 43.37354894285185,
+            "Del_Ratio": 11.550794671159089
+        },
+        {
+            "SYMBOL": "LIQUIDBETA",
             "Sector": "Others",
-            "Vol_Ratio": 27.29492024941671,
-            "Del_Ratio": 7.30651890482399
+            "Vol_Ratio": 11.0,
+            "Del_Ratio": 10.3
         },
         {
-            "SYMBOL": "IGIL",
-            "Sector": "Services",
-            "Vol_Ratio": 8.138581522678313,
-            "Del_Ratio": 7.2824521110644636
-        },
-        {
-            "SYMBOL": "WINDMACHIN",
+            "SYMBOL": "UNITEDTEA",
             "Sector": "Others",
-            "Vol_Ratio": 3.6764383818790476,
-            "Del_Ratio": 7.147738334739438
+            "Vol_Ratio": 10.034035656401946,
+            "Del_Ratio": 10.171280276816608
         },
         {
-            "SYMBOL": "SURAJLTD",
+            "SYMBOL": "BBETF0432",
             "Sector": "Others",
-            "Vol_Ratio": 9.908857509627728,
-            "Del_Ratio": 5.183023872679045
+            "Vol_Ratio": 9.248329621380845,
+            "Del_Ratio": 9.364787111622555
         },
         {
-            "SYMBOL": "EVERESTIND",
+            "SYMBOL": "ANTELOPUS",
             "Sector": "Others",
-            "Vol_Ratio": 4.506550861180627,
-            "Del_Ratio": 5.016252821670429
+            "Vol_Ratio": 24.549386233770235,
+            "Del_Ratio": 6.89097228790315
         },
         {
-            "SYMBOL": "LOTUSEYE",
+            "SYMBOL": "ZFCVINDIA",
+            "Sector": "Automobile and Auto Components",
+            "Vol_Ratio": 3.857392825896763,
+            "Del_Ratio": 5.424464663895208
+        },
+        {
+            "SYMBOL": "PROZONER",
             "Sector": "Others",
-            "Vol_Ratio": 3.410876503805549,
-            "Del_Ratio": 3.731899641577061
+            "Vol_Ratio": 3.4230892458625184,
+            "Del_Ratio": 4.9833760776195035
         },
         {
-            "SYMBOL": "SUTLEJTEX",
+            "SYMBOL": "KOLTEPATIL",
             "Sector": "Others",
-            "Vol_Ratio": 3.7340102585575212,
-            "Del_Ratio": 3.249913961225192
+            "Vol_Ratio": 12.042418675024317,
+            "Del_Ratio": 4.333170395077348
         },
         {
-            "SYMBOL": "INDHOTEL",
-            "Sector": "Consumer Services",
-            "Vol_Ratio": 4.190080013102304,
-            "Del_Ratio": 2.722294082268735
-        },
-        {
-            "SYMBOL": "REPL",
+            "SYMBOL": "AKCAPIT",
             "Sector": "Others",
-            "Vol_Ratio": 14.047559644472166,
-            "Del_Ratio": 2.5534634197654236
+            "Vol_Ratio": 3.524838012958963,
+            "Del_Ratio": 4.155913978494624
         },
         {
-            "SYMBOL": "LIQUIDADD",
+            "SYMBOL": "LIQGRWBEES",
             "Sector": "Others",
-            "Vol_Ratio": 1.8171857096387554,
-            "Del_Ratio": 2.398255347235849
+            "Vol_Ratio": 3.307302370187697,
+            "Del_Ratio": 4.138041733547351
         },
         {
-            "SYMBOL": "SENSEXADD",
+            "SYMBOL": "NIFTYBETF",
             "Sector": "Others",
-            "Vol_Ratio": 2.1618773946360155,
-            "Del_Ratio": 2.3807471264367814
+            "Vol_Ratio": 38.57645466847091,
+            "Del_Ratio": 4.088850174216028
         },
         {
-            "SYMBOL": "ASIANTNE",
+            "SYMBOL": "SAILIFE",
+            "Sector": "Healthcare",
+            "Vol_Ratio": 3.785704590953819,
+            "Del_Ratio": 3.9096381841636463
+        },
+        {
+            "SYMBOL": "SRD",
             "Sector": "Others",
-            "Vol_Ratio": 2.9983827493261455,
-            "Del_Ratio": 2.1197724991636
+            "Vol_Ratio": 3.8127067761303763,
+            "Del_Ratio": 3.6564785978127037
         },
         {
-            "SYMBOL": "PNC",
+            "SYMBOL": "PRAXIS",
             "Sector": "Others",
-            "Vol_Ratio": 2.1913345983554713,
-            "Del_Ratio": 2.1092625899280577
+            "Vol_Ratio": 4.291983820555249,
+            "Del_Ratio": 3.6239318036095316
         },
         {
-            "SYMBOL": "DEVX",
+            "SYMBOL": "ACI",
             "Sector": "Others",
-            "Vol_Ratio": 1.8471701853503817,
-            "Del_Ratio": 2.0634595501453346
-        },
-        {
-            "SYMBOL": "AADHARHFC",
-            "Sector": "Financial Services",
-            "Vol_Ratio": 1.9558578352894413,
-            "Del_Ratio": 2.0600228347740988
+            "Vol_Ratio": 2.8481763815570895,
+            "Del_Ratio": 3.542085353508445
         }
     ]
 }
