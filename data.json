@@ -1,140 +1,140 @@
 {
-    "last_updated": "23-10-2026 (End of Day)",
-    "total_breakouts": 50,
+    "last_updated": "26-10-2026 (End of Day)",
+    "total_breakouts": 80,
     "top_sectors": [
         {
-            "Sector": "Diversified",
-            "Sector_Del_Ratio": 3.00331088664422
+            "Sector": "Healthcare",
+            "Sector_Del_Ratio": 1.0933313812293124
         },
         {
-            "Sector": "Power",
-            "Sector_Del_Ratio": 2.0511717595724113
+            "Sector": "Services",
+            "Sector_Del_Ratio": 1.0744197451631554
         },
         {
-            "Sector": "Construction",
-            "Sector_Del_Ratio": 1.6575343413135346
+            "Sector": "Chemicals",
+            "Sector_Del_Ratio": 1.0240455810435245
         }
     ],
     "stocks": [
         {
-            "SYMBOL": "TERAI",
+            "SYMBOL": "BELDING",
             "Sector": "Others",
-            "Vol_Ratio": 277.42857142857144,
-            "Del_Ratio": 818.0
+            "Vol_Ratio": 61.88186617206449,
+            "Del_Ratio": 88.35854899358549
         },
         {
-            "SYMBOL": "JINDALPOLY",
+            "SYMBOL": "MODTHREAD",
             "Sector": "Others",
-            "Vol_Ratio": 670.2393155526993,
-            "Del_Ratio": 41.966196136701335
+            "Vol_Ratio": 59.26829268292683,
+            "Del_Ratio": 59.19512195121951
         },
         {
-            "SYMBOL": "SHIVAUM",
+            "SYMBOL": "PERMAGN",
             "Sector": "Others",
-            "Vol_Ratio": 21.582463465553236,
-            "Del_Ratio": 25.647727272727273
+            "Vol_Ratio": 24.174128667860586,
+            "Del_Ratio": 12.737217099748532
         },
         {
-            "SYMBOL": "SVGLOBAL",
+            "SYMBOL": "ASAL",
             "Sector": "Others",
-            "Vol_Ratio": 127.55604395604395,
-            "Del_Ratio": 24.87133182844244
+            "Vol_Ratio": 30.562591126848574,
+            "Del_Ratio": 11.278580024067388
         },
         {
-            "SYMBOL": "ITBETA",
+            "SYMBOL": "VGCL",
             "Sector": "Others",
-            "Vol_Ratio": 6.74189364461738,
-            "Del_Ratio": 18.262295081967213
+            "Vol_Ratio": 5.598528209321341,
+            "Del_Ratio": 7.3561643835616435
         },
         {
-            "SYMBOL": "CYIENT",
-            "Sector": "Information Technology",
-            "Vol_Ratio": 43.37354894285185,
-            "Del_Ratio": 11.550794671159089
-        },
-        {
-            "SYMBOL": "LIQUIDBETA",
+            "SYMBOL": "GLOBALE",
             "Sector": "Others",
-            "Vol_Ratio": 11.0,
-            "Del_Ratio": 10.3
+            "Vol_Ratio": 6.844364937388193,
+            "Del_Ratio": 6.764471057884232
         },
         {
-            "SYMBOL": "UNITEDTEA",
+            "SYMBOL": "MAHLOG",
             "Sector": "Others",
-            "Vol_Ratio": 10.034035656401946,
-            "Del_Ratio": 10.171280276816608
+            "Vol_Ratio": 6.4525846194989205,
+            "Del_Ratio": 6.495391482956273
         },
         {
-            "SYMBOL": "BBETF0432",
+            "SYMBOL": "UPHOT",
             "Sector": "Others",
-            "Vol_Ratio": 9.248329621380845,
-            "Del_Ratio": 9.364787111622555
+            "Vol_Ratio": 4.774193548387097,
+            "Del_Ratio": 5.92
         },
         {
-            "SYMBOL": "ANTELOPUS",
+            "SYMBOL": "HILINFRA",
             "Sector": "Others",
-            "Vol_Ratio": 24.549386233770235,
-            "Del_Ratio": 6.89097228790315
+            "Vol_Ratio": 9.185987284885039,
+            "Del_Ratio": 5.795512141178639
         },
         {
-            "SYMBOL": "ZFCVINDIA",
-            "Sector": "Automobile and Auto Components",
-            "Vol_Ratio": 3.857392825896763,
-            "Del_Ratio": 5.424464663895208
-        },
-        {
-            "SYMBOL": "PROZONER",
+            "SYMBOL": "LICNETFN50",
             "Sector": "Others",
-            "Vol_Ratio": 3.4230892458625184,
-            "Del_Ratio": 4.9833760776195035
+            "Vol_Ratio": 5.436619718309859,
+            "Del_Ratio": 5.428571428571429
         },
         {
-            "SYMBOL": "KOLTEPATIL",
+            "SYMBOL": "GSPLTRANS",
             "Sector": "Others",
-            "Vol_Ratio": 12.042418675024317,
-            "Del_Ratio": 4.333170395077348
+            "Vol_Ratio": 3.769247959426262,
+            "Del_Ratio": 5.007070145410152
         },
         {
-            "SYMBOL": "AKCAPIT",
+            "SYMBOL": "JSWHL",
             "Sector": "Others",
-            "Vol_Ratio": 3.524838012958963,
-            "Del_Ratio": 4.155913978494624
+            "Vol_Ratio": 3.063388398002305,
+            "Del_Ratio": 4.2508710801393725
         },
         {
-            "SYMBOL": "LIQGRWBEES",
+            "SYMBOL": "NDGL",
             "Sector": "Others",
-            "Vol_Ratio": 3.307302370187697,
-            "Del_Ratio": 4.138041733547351
+            "Vol_Ratio": 3.9523809523809526,
+            "Del_Ratio": 4.142857142857143
         },
         {
-            "SYMBOL": "NIFTYBETF",
+            "SYMBOL": "TNPL",
             "Sector": "Others",
-            "Vol_Ratio": 38.57645466847091,
-            "Del_Ratio": 4.088850174216028
+            "Vol_Ratio": 1.9283817873901845,
+            "Del_Ratio": 3.8603398999693783
         },
         {
-            "SYMBOL": "SAILIFE",
+            "SYMBOL": "NIPPOBATRY",
+            "Sector": "Others",
+            "Vol_Ratio": 3.9012584704743465,
+            "Del_Ratio": 3.6957055214723926
+        },
+        {
+            "SYMBOL": "DRREDDY",
             "Sector": "Healthcare",
-            "Vol_Ratio": 3.785704590953819,
-            "Del_Ratio": 3.9096381841636463
+            "Vol_Ratio": 6.452864974074413,
+            "Del_Ratio": 3.6183596632295902
         },
         {
-            "SYMBOL": "SRD",
+            "SYMBOL": "AROGRANITE",
             "Sector": "Others",
-            "Vol_Ratio": 3.8127067761303763,
-            "Del_Ratio": 3.6564785978127037
+            "Vol_Ratio": 6.445827633378933,
+            "Del_Ratio": 3.594641313742437
         },
         {
-            "SYMBOL": "PRAXIS",
+            "SYMBOL": "NIFTYAXIS",
             "Sector": "Others",
-            "Vol_Ratio": 4.291983820555249,
-            "Del_Ratio": 3.6239318036095316
+            "Vol_Ratio": 2.3724075743913438,
+            "Del_Ratio": 3.519079933021944
         },
         {
-            "SYMBOL": "ACI",
+            "SYMBOL": "ACUTAAS",
+            "Sector": "Healthcare",
+            "Vol_Ratio": 3.5751790387493574,
+            "Del_Ratio": 3.393177325899772
+        },
+        {
+            "SYMBOL": "SYMBIOTEC",
             "Sector": "Others",
-            "Vol_Ratio": 2.8481763815570895,
-            "Del_Ratio": 3.542085353508445
+            "Vol_Ratio": 2.815793549986059,
+            "Del_Ratio": 3.3572421086285553
         }
     ]
 }
