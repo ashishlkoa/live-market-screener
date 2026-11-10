@@ -1,140 +1,19 @@
 {
-    "last_updated": "09-11-2026 (End of Day)",
-    "total_breakouts": 329,
+    "last_updated": "10-11-2026 (End of Day)",
+    "total_breakouts": 0,
     "top_sectors": [
         {
-            "Sector": "Construction",
-            "Sector_Del_Ratio": 1.464274365198206
+            "Sector": "Automobile and Auto Components",
+            "Sector_Del_Ratio": 1.0
         },
         {
-            "Sector": "Metals & Mining",
-            "Sector_Del_Ratio": 1.3904069833801471
+            "Sector": "Capital Goods",
+            "Sector_Del_Ratio": 1.0
         },
         {
-            "Sector": "Media Entertainment & Publication",
-            "Sector_Del_Ratio": 1.3052884846544177
+            "Sector": "Chemicals",
+            "Sector_Del_Ratio": 1.0
         }
     ],
-    "stocks": [
-        {
-            "SYMBOL": "ARCL",
-            "Sector": "Others",
-            "Vol_Ratio": 606.0,
-            "Del_Ratio": 605.0
-        },
-        {
-            "SYMBOL": "SBIVALETF",
-            "Sector": "Others",
-            "Vol_Ratio": 173.4441591784339,
-            "Del_Ratio": 174.29508196721312
-        },
-        {
-            "SYMBOL": "TRANSWORLD",
-            "Sector": "Others",
-            "Vol_Ratio": 186.9276723652076,
-            "Del_Ratio": 72.33517602560373
-        },
-        {
-            "SYMBOL": "HDFCBSE500",
-            "Sector": "Others",
-            "Vol_Ratio": 20.89797812343838,
-            "Del_Ratio": 26.52250384262268
-        },
-        {
-            "SYMBOL": "ARIHANT",
-            "Sector": "Others",
-            "Vol_Ratio": 28.82027027027027,
-            "Del_Ratio": 26.012345679012345
-        },
-        {
-            "SYMBOL": "HEALTHX",
-            "Sector": "Others",
-            "Vol_Ratio": 23.847012841987716,
-            "Del_Ratio": 23.411855273287145
-        },
-        {
-            "SYMBOL": "MOGSEC",
-            "Sector": "Others",
-            "Vol_Ratio": 1.7510684775382277,
-            "Del_Ratio": 21.28198127925117
-        },
-        {
-            "SYMBOL": "INSUREIETF",
-            "Sector": "Others",
-            "Vol_Ratio": 18.712584129199193,
-            "Del_Ratio": 19.663156170129103
-        },
-        {
-            "SYMBOL": "NTCIND",
-            "Sector": "Others",
-            "Vol_Ratio": 19.388776746063787,
-            "Del_Ratio": 18.31289506953224
-        },
-        {
-            "SYMBOL": "MAKERSL",
-            "Sector": "Others",
-            "Vol_Ratio": 33.74508966695132,
-            "Del_Ratio": 18.163100861350376
-        },
-        {
-            "SYMBOL": "UNIINFO",
-            "Sector": "Others",
-            "Vol_Ratio": 13.28169014084507,
-            "Del_Ratio": 16.93548387096774
-        },
-        {
-            "SYMBOL": "XTGLOBAL",
-            "Sector": "Others",
-            "Vol_Ratio": 7.650820115356885,
-            "Del_Ratio": 14.945647370746796
-        },
-        {
-            "SYMBOL": "SCANSTL",
-            "Sector": "Others",
-            "Vol_Ratio": 19.743753522449747,
-            "Del_Ratio": 14.632102861883036
-        },
-        {
-            "SYMBOL": "JAIPURKURT",
-            "Sector": "Others",
-            "Vol_Ratio": 20.561936764930504,
-            "Del_Ratio": 14.401317122593719
-        },
-        {
-            "SYMBOL": "HGM",
-            "Sector": "Others",
-            "Vol_Ratio": 16.044444444444444,
-            "Del_Ratio": 13.988636363636363
-        },
-        {
-            "SYMBOL": "KPIGREEN",
-            "Sector": "Others",
-            "Vol_Ratio": 74.01233523971635,
-            "Del_Ratio": 13.974499838420636
-        },
-        {
-            "SYMBOL": "IRMENERGY",
-            "Sector": "Others",
-            "Vol_Ratio": 162.72699661948025,
-            "Del_Ratio": 13.681397132574194
-        },
-        {
-            "SYMBOL": "DONEAR",
-            "Sector": "Others",
-            "Vol_Ratio": 15.202016806722689,
-            "Del_Ratio": 12.845896946564885
-        },
-        {
-            "SYMBOL": "RUBFILA",
-            "Sector": "Others",
-            "Vol_Ratio": 7.410994948077462,
-            "Del_Ratio": 12.502763561924258
-        },
-        {
-            "SYMBOL": "MIDCAPADD",
-            "Sector": "Others",
-            "Vol_Ratio": 9.361462728551336,
-            "Del_Ratio": 12.096363636363636
-        }
-    ]
+    "stocks": []
 }
