@@ -1,19 +1,140 @@
 {
-    "last_updated": "10-11-2026 (End of Day)",
-    "total_breakouts": 0,
+    "last_updated": "11-11-2026 (End of Day)",
+    "total_breakouts": 806,
     "top_sectors": [
         {
-            "Sector": "Automobile and Auto Components",
-            "Sector_Del_Ratio": 1.0
+            "Sector": "Consumer Services",
+            "Sector_Del_Ratio": 2.1581410923472815
         },
         {
-            "Sector": "Capital Goods",
-            "Sector_Del_Ratio": 1.0
+            "Sector": "Diversified",
+            "Sector_Del_Ratio": 1.975066713388501
         },
         {
-            "Sector": "Chemicals",
-            "Sector_Del_Ratio": 1.0
+            "Sector": "Realty",
+            "Sector_Del_Ratio": 1.7249417997294683
         }
     ],
-    "stocks": []
+    "stocks": [
+        {
+            "SYMBOL": "EBANK10",
+            "Sector": "Others",
+            "Vol_Ratio": 463.3414423076923,
+            "Del_Ratio": 463.633707101597
+        },
+        {
+            "SYMBOL": "ABSL10BANK",
+            "Sector": "Others",
+            "Vol_Ratio": 147.60039499670836,
+            "Del_Ratio": 165.6572077185017
+        },
+        {
+            "SYMBOL": "EQUAL200",
+            "Sector": "Others",
+            "Vol_Ratio": 34.574562383612665,
+            "Del_Ratio": 140.09614429918915
+        },
+        {
+            "SYMBOL": "BANK10ADD",
+            "Sector": "Others",
+            "Vol_Ratio": 38.93365850739123,
+            "Del_Ratio": 77.49190037822022
+        },
+        {
+            "SYMBOL": "GSEC10IETF",
+            "Sector": "Others",
+            "Vol_Ratio": 52.9,
+            "Del_Ratio": 54.3448275862069
+        },
+        {
+            "SYMBOL": "LICNFNHGP",
+            "Sector": "Others",
+            "Vol_Ratio": 52.5,
+            "Del_Ratio": 50.51063829787234
+        },
+        {
+            "SYMBOL": "FACT",
+            "Sector": "Chemicals",
+            "Vol_Ratio": 144.44040749447888,
+            "Del_Ratio": 27.950057142857144
+        },
+        {
+            "SYMBOL": "BALMLAWRIE",
+            "Sector": "Others",
+            "Vol_Ratio": 351.6893643491595,
+            "Del_Ratio": 27.111857557772446
+        },
+        {
+            "SYMBOL": "MARATHON",
+            "Sector": "Others",
+            "Vol_Ratio": 14.916719242902209,
+            "Del_Ratio": 24.84186046511628
+        },
+        {
+            "SYMBOL": "PSUBANK",
+            "Sector": "Others",
+            "Vol_Ratio": 18.981578733312322,
+            "Del_Ratio": 23.373205030071077
+        },
+        {
+            "SYMBOL": "TALBROAUTO",
+            "Sector": "Others",
+            "Vol_Ratio": 127.63922651313648,
+            "Del_Ratio": 22.075939291021015
+        },
+        {
+            "SYMBOL": "GAUDIUMIVF",
+            "Sector": "Others",
+            "Vol_Ratio": 13.908775555391541,
+            "Del_Ratio": 21.725816675823015
+        },
+        {
+            "SYMBOL": "AVANTEL",
+            "Sector": "Others",
+            "Vol_Ratio": 53.9333891272573,
+            "Del_Ratio": 19.10561800561113
+        },
+        {
+            "SYMBOL": "CROWN",
+            "Sector": "Others",
+            "Vol_Ratio": 14.878378378378379,
+            "Del_Ratio": 18.413255360623783
+        },
+        {
+            "SYMBOL": "HISARMETAL",
+            "Sector": "Others",
+            "Vol_Ratio": 19.033742331288344,
+            "Del_Ratio": 18.305220883534137
+        },
+        {
+            "SYMBOL": "PVTBKGROWW",
+            "Sector": "Others",
+            "Vol_Ratio": 18.58073190693324,
+            "Del_Ratio": 18.26751592356688
+        },
+        {
+            "SYMBOL": "SRHHYPOLTD",
+            "Sector": "Others",
+            "Vol_Ratio": 15.515273311897106,
+            "Del_Ratio": 17.857142857142858
+        },
+        {
+            "SYMBOL": "S&SPOWER",
+            "Sector": "Others",
+            "Vol_Ratio": 20.297235023041473,
+            "Del_Ratio": 17.37735849056604
+        },
+        {
+            "SYMBOL": "TAJGVK",
+            "Sector": "Others",
+            "Vol_Ratio": 16.061140088268882,
+            "Del_Ratio": 16.73784523513312
+        },
+        {
+            "SYMBOL": "CIFL",
+            "Sector": "Others",
+            "Vol_Ratio": 12.083244900365523,
+            "Del_Ratio": 16.584074074074074
+        }
+    ]
 }
