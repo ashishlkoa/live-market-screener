@@ -1,140 +1,140 @@
 {
-    "last_updated": "11-11-2026 (End of Day)",
-    "total_breakouts": 806,
+    "last_updated": "12-11-2026 (End of Day)",
+    "total_breakouts": 238,
     "top_sectors": [
         {
-            "Sector": "Consumer Services",
-            "Sector_Del_Ratio": 2.1581410923472815
-        },
-        {
             "Sector": "Diversified",
-            "Sector_Del_Ratio": 1.975066713388501
+            "Sector_Del_Ratio": 4.688521010467703
         },
         {
-            "Sector": "Realty",
-            "Sector_Del_Ratio": 1.7249417997294683
+            "Sector": "Media Entertainment & Publication",
+            "Sector_Del_Ratio": 1.5655712047172596
+        },
+        {
+            "Sector": "Telecommunication",
+            "Sector_Del_Ratio": 1.0361995440677774
         }
     ],
     "stocks": [
         {
-            "SYMBOL": "EBANK10",
+            "SYMBOL": "BNALTD",
             "Sector": "Others",
-            "Vol_Ratio": 463.3414423076923,
-            "Del_Ratio": 463.633707101597
+            "Vol_Ratio": 209.0,
+            "Del_Ratio": 209.0
         },
         {
-            "SYMBOL": "ABSL10BANK",
+            "SYMBOL": "REGENCERAM",
             "Sector": "Others",
-            "Vol_Ratio": 147.60039499670836,
-            "Del_Ratio": 165.6572077185017
+            "Vol_Ratio": 94.86619718309859,
+            "Del_Ratio": 86.19469026548673
         },
         {
-            "SYMBOL": "EQUAL200",
+            "SYMBOL": "CONTROLPR",
             "Sector": "Others",
-            "Vol_Ratio": 34.574562383612665,
-            "Del_Ratio": 140.09614429918915
+            "Vol_Ratio": 57.13268506900878,
+            "Del_Ratio": 73.43349525792274
         },
         {
-            "SYMBOL": "BANK10ADD",
+            "SYMBOL": "BANKBETF",
             "Sector": "Others",
-            "Vol_Ratio": 38.93365850739123,
-            "Del_Ratio": 77.49190037822022
+            "Vol_Ratio": 35.5035978653813,
+            "Del_Ratio": 62.35346508906514
         },
         {
-            "SYMBOL": "GSEC10IETF",
+            "SYMBOL": "MANAKCOAT",
             "Sector": "Others",
-            "Vol_Ratio": 52.9,
-            "Del_Ratio": 54.3448275862069
+            "Vol_Ratio": 23.525269730937424,
+            "Del_Ratio": 26.271357176662658
         },
         {
-            "SYMBOL": "LICNFNHGP",
+            "SYMBOL": "MOMSBELIEF",
             "Sector": "Others",
-            "Vol_Ratio": 52.5,
-            "Del_Ratio": 50.51063829787234
+            "Vol_Ratio": 69.93205779770803,
+            "Del_Ratio": 21.792650189762103
         },
         {
-            "SYMBOL": "FACT",
-            "Sector": "Chemicals",
-            "Vol_Ratio": 144.44040749447888,
-            "Del_Ratio": 27.950057142857144
+            "SYMBOL": "GKB",
+            "Sector": "Others",
+            "Vol_Ratio": 46.94072363356428,
+            "Del_Ratio": 21.392744479495267
         },
         {
-            "SYMBOL": "BALMLAWRIE",
+            "SYMBOL": "JARO",
             "Sector": "Others",
-            "Vol_Ratio": 351.6893643491595,
-            "Del_Ratio": 27.111857557772446
+            "Vol_Ratio": 218.7583081570997,
+            "Del_Ratio": 20.794934289127838
         },
         {
-            "SYMBOL": "MARATHON",
+            "SYMBOL": "SAPPL",
             "Sector": "Others",
-            "Vol_Ratio": 14.916719242902209,
-            "Del_Ratio": 24.84186046511628
+            "Vol_Ratio": 21.588709677419356,
+            "Del_Ratio": 19.40740740740741
         },
         {
-            "SYMBOL": "PSUBANK",
-            "Sector": "Others",
-            "Vol_Ratio": 18.981578733312322,
-            "Del_Ratio": 23.373205030071077
+            "SYMBOL": "GABRIEL",
+            "Sector": "Automobile and Auto Components",
+            "Vol_Ratio": 65.49883364625751,
+            "Del_Ratio": 19.28494794986191
         },
         {
-            "SYMBOL": "TALBROAUTO",
+            "SYMBOL": "RANEHOLDIN",
             "Sector": "Others",
-            "Vol_Ratio": 127.63922651313648,
-            "Del_Ratio": 22.075939291021015
+            "Vol_Ratio": 326.6830304806565,
+            "Del_Ratio": 19.165219033232628
         },
         {
-            "SYMBOL": "GAUDIUMIVF",
+            "SYMBOL": "BNAGROCHEM",
             "Sector": "Others",
-            "Vol_Ratio": 13.908775555391541,
-            "Del_Ratio": 21.725816675823015
+            "Vol_Ratio": 21.041416442327606,
+            "Del_Ratio": 16.04286601780907
         },
         {
-            "SYMBOL": "AVANTEL",
+            "SYMBOL": "KHANDSE",
             "Sector": "Others",
-            "Vol_Ratio": 53.9333891272573,
-            "Del_Ratio": 19.10561800561113
+            "Vol_Ratio": 18.658536585365855,
+            "Del_Ratio": 14.646408839779005
         },
         {
-            "SYMBOL": "CROWN",
+            "SYMBOL": "VIVOBIOT",
             "Sector": "Others",
-            "Vol_Ratio": 14.878378378378379,
-            "Del_Ratio": 18.413255360623783
+            "Vol_Ratio": 17.473258824272275,
+            "Del_Ratio": 13.979588394062079
         },
         {
-            "SYMBOL": "HISARMETAL",
+            "SYMBOL": "BRIGHOTEL",
             "Sector": "Others",
-            "Vol_Ratio": 19.033742331288344,
-            "Del_Ratio": 18.305220883534137
+            "Vol_Ratio": 7.482181668787108,
+            "Del_Ratio": 12.296096330331135
         },
         {
-            "SYMBOL": "PVTBKGROWW",
+            "SYMBOL": "ANTGRAPHIC",
             "Sector": "Others",
-            "Vol_Ratio": 18.58073190693324,
-            "Del_Ratio": 18.26751592356688
+            "Vol_Ratio": 13.065190557270881,
+            "Del_Ratio": 11.422199058265338
         },
         {
-            "SYMBOL": "SRHHYPOLTD",
+            "SYMBOL": "APEX",
             "Sector": "Others",
-            "Vol_Ratio": 15.515273311897106,
-            "Del_Ratio": 17.857142857142858
+            "Vol_Ratio": 61.028605841613974,
+            "Del_Ratio": 9.06071573079171
         },
         {
-            "SYMBOL": "S&SPOWER",
+            "SYMBOL": "SRIT",
             "Sector": "Others",
-            "Vol_Ratio": 20.297235023041473,
-            "Del_Ratio": 17.37735849056604
+            "Vol_Ratio": 11.51600862178268,
+            "Del_Ratio": 8.454545454545455
         },
         {
-            "SYMBOL": "TAJGVK",
+            "SYMBOL": "AMANTA",
             "Sector": "Others",
-            "Vol_Ratio": 16.061140088268882,
-            "Del_Ratio": 16.73784523513312
+            "Vol_Ratio": 27.288667819194647,
+            "Del_Ratio": 8.405631021482856
         },
         {
-            "SYMBOL": "CIFL",
+            "SYMBOL": "TASTYBITE",
             "Sector": "Others",
-            "Vol_Ratio": 12.083244900365523,
-            "Del_Ratio": 16.584074074074074
+            "Vol_Ratio": 22.75439882697947,
+            "Del_Ratio": 8.298107255520504
         }
     ]
 }
