@@ -1,140 +1,140 @@
 {
-    "last_updated": "13-11-2026 (End of Day)",
-    "total_breakouts": 187,
+    "last_updated": "16-11-2026 (End of Day)",
+    "total_breakouts": 144,
     "top_sectors": [
         {
-            "Sector": "Services",
-            "Sector_Del_Ratio": 1.221609198776998
+            "Sector": "Fast Moving Consumer Goods",
+            "Sector_Del_Ratio": 1.8473419059558371
         },
         {
-            "Sector": "Diversified",
-            "Sector_Del_Ratio": 1.19570241775387
+            "Sector": "Automobile and Auto Components",
+            "Sector_Del_Ratio": 1.7962592008256277
         },
         {
-            "Sector": "Information Technology",
-            "Sector_Del_Ratio": 1.0294423849250172
+            "Sector": "Healthcare",
+            "Sector_Del_Ratio": 1.5065815365702706
         }
     ],
     "stocks": [
         {
-            "SYMBOL": "MOGSEC",
+            "SYMBOL": "IVZBANKNF",
             "Sector": "Others",
-            "Vol_Ratio": 152.7338557146717,
-            "Del_Ratio": 287.84792038785406
+            "Vol_Ratio": 299.69251700680275,
+            "Del_Ratio": 297.8204081632653
         },
         {
-            "SYMBOL": "NEAGI",
+            "SYMBOL": "QNIFTY",
             "Sector": "Others",
-            "Vol_Ratio": 56.5,
-            "Del_Ratio": 56.0
+            "Vol_Ratio": 60.119565217391305,
+            "Del_Ratio": 187.1441908713693
         },
         {
-            "SYMBOL": "MADRASFERT",
+            "SYMBOL": "PBMPOLY",
             "Sector": "Others",
-            "Vol_Ratio": 108.62495582726694,
-            "Del_Ratio": 29.676145962383153
+            "Vol_Ratio": 81.22804532577904,
+            "Del_Ratio": 42.45652173913044
         },
         {
-            "SYMBOL": "DISAQ",
+            "SYMBOL": "TVSSCS",
             "Sector": "Others",
-            "Vol_Ratio": 27.05,
-            "Del_Ratio": 28.75
+            "Vol_Ratio": 143.1325627623894,
+            "Del_Ratio": 25.525523610119315
         },
         {
-            "SYMBOL": "WHBRADY",
+            "SYMBOL": "ARYAMAN",
             "Sector": "Others",
-            "Vol_Ratio": 27.0,
-            "Del_Ratio": 27.0
+            "Vol_Ratio": 55.91422121896163,
+            "Del_Ratio": 19.772251308900522
         },
         {
-            "SYMBOL": "JMA",
+            "SYMBOL": "TVSSRICHAK",
             "Sector": "Others",
-            "Vol_Ratio": 29.9611462223499,
-            "Del_Ratio": 22.963103635377102
+            "Vol_Ratio": 74.78436952714536,
+            "Del_Ratio": 19.701716738197426
         },
         {
-            "SYMBOL": "KENNAMET",
+            "SYMBOL": "AURUS",
             "Sector": "Others",
-            "Vol_Ratio": 44.12991694091835,
-            "Del_Ratio": 21.84731883419917
+            "Vol_Ratio": 24.353932584269664,
+            "Del_Ratio": 19.184905660377357
         },
         {
-            "SYMBOL": "ITI",
-            "Sector": "Telecommunication",
-            "Vol_Ratio": 158.7556511356544,
-            "Del_Ratio": 19.20471175400753
+            "SYMBOL": "SENSEXADD",
+            "Sector": "Others",
+            "Vol_Ratio": 11.591666666666667,
+            "Del_Ratio": 17.479591836734695
         },
         {
-            "SYMBOL": "ALICON",
+            "SYMBOL": "NIFTYBETA",
             "Sector": "Others",
-            "Vol_Ratio": 201.69148110560565,
-            "Del_Ratio": 17.867824238128986
+            "Vol_Ratio": 7.003415288644165,
+            "Del_Ratio": 13.570475971487697
         },
         {
-            "SYMBOL": "SAMBANDAM",
+            "SYMBOL": "BLUECOAST",
             "Sector": "Others",
-            "Vol_Ratio": 9.083333333333334,
-            "Del_Ratio": 16.5
+            "Vol_Ratio": 9.639004149377593,
+            "Del_Ratio": 13.386206896551725
         },
         {
-            "SYMBOL": "ORICONENT",
-            "Sector": "Others",
-            "Vol_Ratio": 13.487371601208459,
-            "Del_Ratio": 16.361071234097324
+            "SYMBOL": "GALLANTT",
+            "Sector": "Capital Goods",
+            "Vol_Ratio": 48.33892467217376,
+            "Del_Ratio": 11.925441344488261
         },
         {
-            "SYMBOL": "DCI",
+            "SYMBOL": "SRM",
             "Sector": "Others",
-            "Vol_Ratio": 9.166545378937519,
-            "Del_Ratio": 15.690608814619369
+            "Vol_Ratio": 11.59233429057024,
+            "Del_Ratio": 10.955904334828102
         },
         {
-            "SYMBOL": "SHARDAMOTR",
+            "SYMBOL": "PVTBANK",
             "Sector": "Others",
-            "Vol_Ratio": 122.70648217535596,
-            "Del_Ratio": 15.49708403460018
+            "Vol_Ratio": 15.467188440698374,
+            "Del_Ratio": 10.691888949373979
         },
         {
-            "SYMBOL": "CONSUMAXIS",
-            "Sector": "Others",
-            "Vol_Ratio": 11.102564102564102,
-            "Del_Ratio": 15.037735849056604
+            "SYMBOL": "BELRISE",
+            "Sector": "Automobile and Auto Components",
+            "Vol_Ratio": 50.30239805319817,
+            "Del_Ratio": 9.434834800447558
         },
         {
-            "SYMBOL": "BFINVEST",
+            "SYMBOL": "MANGLMCEM",
             "Sector": "Others",
-            "Vol_Ratio": 23.203686804161343,
-            "Del_Ratio": 14.069588026539114
+            "Vol_Ratio": 10.62947632486673,
+            "Del_Ratio": 9.299314285714285
         },
         {
-            "SYMBOL": "ANUP",
+            "SYMBOL": "BEARDSELL",
             "Sector": "Others",
-            "Vol_Ratio": 55.24852747252747,
-            "Del_Ratio": 13.127146318339829
+            "Vol_Ratio": 8.51401151631478,
+            "Del_Ratio": 8.565937879576609
         },
         {
-            "SYMBOL": "SUTLEJTEX",
+            "SYMBOL": "GROWWLIQID",
             "Sector": "Others",
-            "Vol_Ratio": 29.36610077729224,
-            "Del_Ratio": 12.388725803020634
+            "Vol_Ratio": 4.884093508151379,
+            "Del_Ratio": 8.36770586970544
         },
         {
-            "SYMBOL": "SURYALAXMI",
+            "SYMBOL": "MODIS",
             "Sector": "Others",
-            "Vol_Ratio": 12.56319018404908,
-            "Del_Ratio": 12.018181818181818
+            "Vol_Ratio": 5.353783966816219,
+            "Del_Ratio": 8.120415809192128
         },
         {
-            "SYMBOL": "UMIYA-MRO",
+            "SYMBOL": "AFIL",
             "Sector": "Others",
-            "Vol_Ratio": 17.673173092434265,
-            "Del_Ratio": 11.578226711560045
+            "Vol_Ratio": 7.09818551806003,
+            "Del_Ratio": 8.005875212925469
         },
         {
-            "SYMBOL": "SHALPAINTS",
+            "SYMBOL": "ESENSEX",
             "Sector": "Others",
-            "Vol_Ratio": 9.997040235637279,
-            "Del_Ratio": 11.270085958067687
+            "Vol_Ratio": 7.195205479452055,
+            "Del_Ratio": 7.836501901140684
         }
     ]
 }
