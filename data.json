@@ -1,140 +1,19 @@
 {
-    "last_updated": "23-11-2026 (End of Day)",
-    "total_breakouts": 149,
+    "last_updated": "24-11-2026 (End of Day)",
+    "total_breakouts": 0,
     "top_sectors": [
         {
-            "Sector": "Media Entertainment & Publication",
-            "Sector_Del_Ratio": 1.819728035255359
-        },
-        {
-            "Sector": "Metals & Mining",
-            "Sector_Del_Ratio": 1.7476337276444098
+            "Sector": "Automobile and Auto Components",
+            "Sector_Del_Ratio": 1.0
         },
         {
             "Sector": "Capital Goods",
-            "Sector_Del_Ratio": 1.2722769117193002
+            "Sector_Del_Ratio": 1.0
+        },
+        {
+            "Sector": "Chemicals",
+            "Sector_Del_Ratio": 1.0
         }
     ],
-    "stocks": [
-        {
-            "SYMBOL": "GSEC10YEAR",
-            "Sector": "Others",
-            "Vol_Ratio": 141.53986332574033,
-            "Del_Ratio": 76.30166270783847
-        },
-        {
-            "SYMBOL": "GSEC10IETF",
-            "Sector": "Others",
-            "Vol_Ratio": 440.27906976744185,
-            "Del_Ratio": 66.72093023255815
-        },
-        {
-            "SYMBOL": "SHALPAINTS",
-            "Sector": "Others",
-            "Vol_Ratio": 73.98513886364763,
-            "Del_Ratio": 27.27682162006894
-        },
-        {
-            "SYMBOL": "ITI",
-            "Sector": "Telecommunication",
-            "Vol_Ratio": 363.7987084695437,
-            "Del_Ratio": 26.70927293354298
-        },
-        {
-            "SYMBOL": "HCL-INSYS",
-            "Sector": "Others",
-            "Vol_Ratio": 30.429664877463097,
-            "Del_Ratio": 22.388423819141945
-        },
-        {
-            "SYMBOL": "JOCIL",
-            "Sector": "Others",
-            "Vol_Ratio": 19.71255060728745,
-            "Del_Ratio": 20.963133640552996
-        },
-        {
-            "SYMBOL": "RELCHEMQ",
-            "Sector": "Others",
-            "Vol_Ratio": 9.945132743362832,
-            "Del_Ratio": 13.093543046357615
-        },
-        {
-            "SYMBOL": "HITECH",
-            "Sector": "Others",
-            "Vol_Ratio": 52.503446407492696,
-            "Del_Ratio": 12.893826595967916
-        },
-        {
-            "SYMBOL": "MIDBANKADD",
-            "Sector": "Others",
-            "Vol_Ratio": 8.061999382605729,
-            "Del_Ratio": 12.538213627992633
-        },
-        {
-            "SYMBOL": "MIDSELIETF",
-            "Sector": "Others",
-            "Vol_Ratio": 8.199729651550888,
-            "Del_Ratio": 11.872662261247397
-        },
-        {
-            "SYMBOL": "AKCAPIT",
-            "Sector": "Others",
-            "Vol_Ratio": 12.726720647773279,
-            "Del_Ratio": 11.834586466165414
-        },
-        {
-            "SYMBOL": "HMVL",
-            "Sector": "Others",
-            "Vol_Ratio": 11.762922932330827,
-            "Del_Ratio": 11.525160912814512
-        },
-        {
-            "SYMBOL": "PERMAGN",
-            "Sector": "Others",
-            "Vol_Ratio": 29.26478978047873,
-            "Del_Ratio": 10.525239338555265
-        },
-        {
-            "SYMBOL": "RATNAVEER",
-            "Sector": "Others",
-            "Vol_Ratio": 10.422948929142146,
-            "Del_Ratio": 10.126023090076632
-        },
-        {
-            "SYMBOL": "MIDCAPBETA",
-            "Sector": "Others",
-            "Vol_Ratio": 8.168711656441717,
-            "Del_Ratio": 9.485714285714286
-        },
-        {
-            "SYMBOL": "IVZSILVER",
-            "Sector": "Others",
-            "Vol_Ratio": 9.364800822430047,
-            "Del_Ratio": 8.868743829780696
-        },
-        {
-            "SYMBOL": "PREMEXPLN",
-            "Sector": "Others",
-            "Vol_Ratio": 70.12080445712732,
-            "Del_Ratio": 7.4786142390119865
-        },
-        {
-            "SYMBOL": "GUJENERGY",
-            "Sector": "Others",
-            "Vol_Ratio": 5.327149757161397,
-            "Del_Ratio": 7.107491375516623
-        },
-        {
-            "SYMBOL": "CASHIETF",
-            "Sector": "Others",
-            "Vol_Ratio": 6.39727254421353,
-            "Del_Ratio": 7.064360557621124
-        },
-        {
-            "SYMBOL": "THOMASCOOK",
-            "Sector": "Others",
-            "Vol_Ratio": 31.860432659862067,
-            "Del_Ratio": 6.972965227194644
-        }
-    ]
+    "stocks": []
 }
