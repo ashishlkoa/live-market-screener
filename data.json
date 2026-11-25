@@ -1,19 +1,140 @@
 {
-    "last_updated": "24-11-2026 (End of Day)",
-    "total_breakouts": 0,
+    "last_updated": "25-11-2026 (End of Day)",
+    "total_breakouts": 181,
     "top_sectors": [
         {
-            "Sector": "Automobile and Auto Components",
-            "Sector_Del_Ratio": 1.0
+            "Sector": "Healthcare",
+            "Sector_Del_Ratio": 2.0365718644237836
         },
         {
-            "Sector": "Capital Goods",
-            "Sector_Del_Ratio": 1.0
+            "Sector": "Services",
+            "Sector_Del_Ratio": 1.5737213708216176
         },
         {
-            "Sector": "Chemicals",
-            "Sector_Del_Ratio": 1.0
+            "Sector": "Fast Moving Consumer Goods",
+            "Sector_Del_Ratio": 1.4034704107711788
         }
     ],
-    "stocks": []
+    "stocks": [
+        {
+            "SYMBOL": "EBANK10",
+            "Sector": "Others",
+            "Vol_Ratio": 1780.1465072667604,
+            "Del_Ratio": 2969.8915226998793
+        },
+        {
+            "SYMBOL": "ARIHANT",
+            "Sector": "Others",
+            "Vol_Ratio": 178.21923076923076,
+            "Del_Ratio": 179.50833333333333
+        },
+        {
+            "SYMBOL": "INSURADD",
+            "Sector": "Others",
+            "Vol_Ratio": 27.967028627838104,
+            "Del_Ratio": 50.32962550982573
+        },
+        {
+            "SYMBOL": "MON50EQUAL",
+            "Sector": "Others",
+            "Vol_Ratio": 31.080633193173387,
+            "Del_Ratio": 32.211169284467715
+        },
+        {
+            "SYMBOL": "MOLOWVOL",
+            "Sector": "Others",
+            "Vol_Ratio": 27.720345345345347,
+            "Del_Ratio": 30.579275905118603
+        },
+        {
+            "SYMBOL": "CONSUMAXIS",
+            "Sector": "Others",
+            "Vol_Ratio": 18.031123139377538,
+            "Del_Ratio": 21.86863711001642
+        },
+        {
+            "SYMBOL": "SONAL",
+            "Sector": "Others",
+            "Vol_Ratio": 19.84375,
+            "Del_Ratio": 17.723021582733814
+        },
+        {
+            "SYMBOL": "PANSARI",
+            "Sector": "Others",
+            "Vol_Ratio": 33.528301886792455,
+            "Del_Ratio": 16.41509433962264
+        },
+        {
+            "SYMBOL": "SNXT30BEES",
+            "Sector": "Others",
+            "Vol_Ratio": 14.23649666451474,
+            "Del_Ratio": 15.69204152249135
+        },
+        {
+            "SYMBOL": "MHRIL",
+            "Sector": "Others",
+            "Vol_Ratio": 69.0119990217358,
+            "Del_Ratio": 14.104070066975785
+        },
+        {
+            "SYMBOL": "SBILIQETF",
+            "Sector": "Others",
+            "Vol_Ratio": 14.062995169082125,
+            "Del_Ratio": 12.894762366634335
+        },
+        {
+            "SYMBOL": "BALKRISHNA",
+            "Sector": "Others",
+            "Vol_Ratio": 23.256180186778977,
+            "Del_Ratio": 12.449881141045958
+        },
+        {
+            "SYMBOL": "JWL",
+            "Sector": "Capital Goods",
+            "Vol_Ratio": 58.58774268695935,
+            "Del_Ratio": 12.057438083480333
+        },
+        {
+            "SYMBOL": "SINCLAIR",
+            "Sector": "Others",
+            "Vol_Ratio": 9.576358485706928,
+            "Del_Ratio": 11.996593868964135
+        },
+        {
+            "SYMBOL": "KALAMANDIR",
+            "Sector": "Others",
+            "Vol_Ratio": 33.61019291848018,
+            "Del_Ratio": 11.39393102991427
+        },
+        {
+            "SYMBOL": "DIGITIDE",
+            "Sector": "Others",
+            "Vol_Ratio": 8.097991079457573,
+            "Del_Ratio": 11.14775150526844
+        },
+        {
+            "SYMBOL": "EQUAL50",
+            "Sector": "Others",
+            "Vol_Ratio": 9.508909479686386,
+            "Del_Ratio": 10.38677536231884
+        },
+        {
+            "SYMBOL": "KOPRAN",
+            "Sector": "Others",
+            "Vol_Ratio": 61.020621453053884,
+            "Del_Ratio": 9.997388107829227
+        },
+        {
+            "SYMBOL": "HDFCLIQUID",
+            "Sector": "Others",
+            "Vol_Ratio": 5.910259948120757,
+            "Del_Ratio": 9.110041116641419
+        },
+        {
+            "SYMBOL": "PRECAM",
+            "Sector": "Others",
+            "Vol_Ratio": 18.390678930577064,
+            "Del_Ratio": 8.771824750992774
+        }
+    ]
 }
