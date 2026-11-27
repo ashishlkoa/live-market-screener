@@ -1,140 +1,140 @@
 {
-    "last_updated": "26-11-2026 (End of Day)",
-    "total_breakouts": 197,
+    "last_updated": "27-11-2026 (End of Day)",
+    "total_breakouts": 301,
     "top_sectors": [
         {
-            "Sector": "Consumer Durables",
-            "Sector_Del_Ratio": 2.2986830728488328
+            "Sector": "Textiles",
+            "Sector_Del_Ratio": 1.6316387651177593
         },
         {
-            "Sector": "Realty",
-            "Sector_Del_Ratio": 1.4702620790967473
+            "Sector": "Services",
+            "Sector_Del_Ratio": 1.5329197637302228
         },
         {
-            "Sector": "Information Technology",
-            "Sector_Del_Ratio": 1.3633889492841411
+            "Sector": "Construction",
+            "Sector_Del_Ratio": 1.264016682044721
         }
     ],
     "stocks": [
         {
-            "SYMBOL": "SURAJLTD",
+            "SYMBOL": "INNOVANA",
             "Sector": "Others",
-            "Vol_Ratio": 66.96296296296296,
-            "Del_Ratio": 66.83333333333333
+            "Vol_Ratio": 126.17857142857143,
+            "Del_Ratio": 133.75
         },
         {
-            "SYMBOL": "MADHAV",
+            "SYMBOL": "MAKEINDIA",
             "Sector": "Others",
-            "Vol_Ratio": 25.96987951807229,
-            "Del_Ratio": 38.65277777777778
+            "Vol_Ratio": 36.055239432456396,
+            "Del_Ratio": 80.87267107409633
         },
         {
-            "SYMBOL": "FLAIR",
+            "SYMBOL": "WAAREERTL",
             "Sector": "Others",
-            "Vol_Ratio": 11.12278823245978,
-            "Del_Ratio": 30.596360558611934
+            "Vol_Ratio": 286.6707296427967,
+            "Del_Ratio": 38.5076391577568
         },
         {
-            "SYMBOL": "LOWVOL",
-            "Sector": "Others",
-            "Vol_Ratio": 24.363636363636363,
-            "Del_Ratio": 24.729508196721312
+            "SYMBOL": "BEML",
+            "Sector": "Capital Goods",
+            "Vol_Ratio": 62.45077142519013,
+            "Del_Ratio": 22.05698393493312
         },
         {
-            "SYMBOL": "MOMENTUM30",
+            "SYMBOL": "JAGRAN",
             "Sector": "Others",
-            "Vol_Ratio": 12.147211567835443,
-            "Del_Ratio": 21.85818276355128
+            "Vol_Ratio": 194.9391793289534,
+            "Del_Ratio": 19.705032049770175
         },
         {
-            "SYMBOL": "UMESLTD",
+            "SYMBOL": "SOLARWORLD",
             "Sector": "Others",
-            "Vol_Ratio": 19.587015821058376,
-            "Del_Ratio": 16.840474020054696
+            "Vol_Ratio": 155.4614155372756,
+            "Del_Ratio": 16.042072452725634
         },
         {
-            "SYMBOL": "NGIL",
+            "SYMBOL": "AUSTENG",
             "Sector": "Others",
-            "Vol_Ratio": 45.892747985551544,
-            "Del_Ratio": 16.657722308892357
+            "Vol_Ratio": 19.84245810055866,
+            "Del_Ratio": 13.525675675675675
         },
         {
-            "SYMBOL": "HEALTHY",
+            "SYMBOL": "INDIQUBE",
             "Sector": "Others",
-            "Vol_Ratio": 9.472629706319811,
-            "Del_Ratio": 15.707800415402694
+            "Vol_Ratio": 10.701279527559056,
+            "Del_Ratio": 13.232466603053435
         },
         {
-            "SYMBOL": "DHAMPURSUG",
+            "SYMBOL": "CEINSYS",
             "Sector": "Others",
-            "Vol_Ratio": 182.11482956902665,
-            "Del_Ratio": 15.671711439021314
+            "Vol_Ratio": 124.97694543532832,
+            "Del_Ratio": 13.043975737524125
         },
         {
-            "SYMBOL": "TOP15IETF",
+            "SYMBOL": "STARCEMENT",
             "Sector": "Others",
-            "Vol_Ratio": 13.112306426679444,
-            "Del_Ratio": 13.887326662956696
+            "Vol_Ratio": 14.930173752844706,
+            "Del_Ratio": 12.419862913810704
         },
         {
-            "SYMBOL": "NEXT50ETF",
+            "SYMBOL": "SAATVIKGL",
             "Sector": "Others",
-            "Vol_Ratio": 10.438483146067416,
-            "Del_Ratio": 13.187542407382278
+            "Vol_Ratio": 8.798842967103006,
+            "Del_Ratio": 11.012896825396826
         },
         {
-            "SYMBOL": "IT",
+            "SYMBOL": "GALAXYSURF",
             "Sector": "Others",
-            "Vol_Ratio": 9.500597220436552,
-            "Del_Ratio": 12.48625995551772
+            "Vol_Ratio": 6.191756677362498,
+            "Del_Ratio": 9.907708261320428
         },
         {
-            "SYMBOL": "WIPL",
-            "Sector": "Others",
-            "Vol_Ratio": 11.15512367491166,
-            "Del_Ratio": 11.893835616438356
+            "SYMBOL": "INDIAMART",
+            "Sector": "Consumer Services",
+            "Vol_Ratio": 4.867053440104592,
+            "Del_Ratio": 9.321579689703809
         },
         {
-            "SYMBOL": "LIQGRWBEES",
+            "SYMBOL": "RADIOCITY",
             "Sector": "Others",
-            "Vol_Ratio": 7.741237387148168,
-            "Del_Ratio": 10.739677096728103
+            "Vol_Ratio": 8.753682105964678,
+            "Del_Ratio": 9.304622515715284
         },
         {
-            "SYMBOL": "MOCAPITAL",
+            "SYMBOL": "ELIN",
             "Sector": "Others",
-            "Vol_Ratio": 6.4309517250699075,
-            "Del_Ratio": 10.225931441743612
+            "Vol_Ratio": 16.1587106918239,
+            "Del_Ratio": 8.958529368967357
         },
         {
-            "SYMBOL": "MAGADSUGAR",
+            "SYMBOL": "GEOJITFSL",
             "Sector": "Others",
-            "Vol_Ratio": 30.16444899351757,
-            "Del_Ratio": 9.23308698123934
+            "Vol_Ratio": 249.6697043862716,
+            "Del_Ratio": 8.235148152296597
         },
         {
-            "SYMBOL": "FACT",
-            "Sector": "Chemicals",
-            "Vol_Ratio": 72.37578321518409,
-            "Del_Ratio": 8.000657808183133
+            "SYMBOL": "AEROPLANE",
+            "Sector": "Others",
+            "Vol_Ratio": 5.462737206032225,
+            "Del_Ratio": 8.023777777777777
         },
         {
-            "SYMBOL": "SINGERIND",
+            "SYMBOL": "RPPL",
             "Sector": "Others",
-            "Vol_Ratio": 32.61589745191107,
-            "Del_Ratio": 7.80938132535422
+            "Vol_Ratio": 8.411497908935619,
+            "Del_Ratio": 8.016738556621387
         },
         {
-            "SYMBOL": "SAPPL",
+            "SYMBOL": "IGCL",
             "Sector": "Others",
-            "Vol_Ratio": 4.918781725888325,
-            "Del_Ratio": 7.076923076923077
+            "Vol_Ratio": 10.650360185159824,
+            "Del_Ratio": 7.782760814249364
         },
         {
-            "SYMBOL": "TRANSCOR",
+            "SYMBOL": "GAJA",
             "Sector": "Others",
-            "Vol_Ratio": 5.273344651952462,
-            "Del_Ratio": 7.0590909090909095
+            "Vol_Ratio": 121.1353596281086,
+            "Del_Ratio": 7.758858441227744
         }
     ]
 }
